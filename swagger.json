@@ -1,0 +1,1863 @@
+{
+    "swagger": "2.0",
+    "basePath": "/",
+    "paths": {
+        "/analytics/": {
+            "get": {
+                "responses": {
+                    "404": {
+                        "description": "Not found"
+                    },
+                    "401": {
+                        "description": "Not authorised"
+                    },
+                    "400": {
+                        "description": "Invalid request parameters"
+                    },
+                    "200": {
+                        "description": "Successful"
+                    }
+                },
+                "summary": "Returns a list or graph of API activity",
+                "description": "API usage stats",
+                "operationId": "get_analytics",
+                "parameters": [
+                    {
+                        "name": "page",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Page number to retrieve",
+                        "default": 1
+                    },
+                    {
+                        "name": "per_page",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Number of results to return per page",
+                        "default": 25,
+                        "enum": [
+                            25,
+                            50,
+                            100
+                        ],
+                        "collectionFormat": "multi"
+                    }
+                ],
+                "produces": [
+                    "application/json",
+                    "image/png"
+                ],
+                "tags": [
+                    "analytics"
+                ]
+            }
+        },
+        "/crime-rates/": {
+            "get": {
+                "responses": {
+                    "400": {
+                        "description": "Invalid request parameters"
+                    },
+                    "200": {
+                        "description": "Successful",
+                        "schema": {
+                            "$ref": "#/definitions/Crime rate"
+                        }
+                    }
+                },
+                "summary": "Returns a list of number imes reported per year for each suburb",
+                "description": "Retrieve a list of total crimes reported for each suburb, per year",
+                "operationId": "get_crimes",
+                "parameters": [
+                    {
+                        "name": "ascending",
+                        "in": "query",
+                        "type": "boolean",
+                        "description": "Sort in ascending or descending order"
+                    },
+                    {
+                        "name": "page",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Page number to retrieve",
+                        "default": 1
+                    },
+                    {
+                        "name": "per_page",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Number of results to return per page",
+                        "default": 25,
+                        "enum": [
+                            25,
+                            50,
+                            100
+                        ],
+                        "collectionFormat": "multi"
+                    },
+                    {
+                        "name": "suburb",
+                        "in": "query",
+                        "type": "string",
+                        "description": "Name of the suburb"
+                    },
+                    {
+                        "name": "suburb_id",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "ID of the suburb"
+                    }
+                ],
+                "tags": [
+                    "crimes"
+                ]
+            }
+        },
+        "/fuel-prices/": {
+            "get": {
+                "responses": {
+                    "404": {
+                        "description": "Page not found"
+                    },
+                    "400": {
+                        "description": "Invalid request parameters"
+                    },
+                    "200": {
+                        "description": "Successful",
+                        "schema": {
+                            "$ref": "#/definitions/Fuel price"
+                        }
+                    }
+                },
+                "summary": "Returns a list of monthly fuel prices for each suburb",
+                "description": "Retrieve a list of all Sydney fuel prices for each suburb, per month",
+                "operationId": "get_fuel_prices",
+                "parameters": [
+                    {
+                        "name": "ascending",
+                        "in": "query",
+                        "type": "boolean",
+                        "description": "Sort in ascending or descending order"
+                    },
+                    {
+                        "name": "page",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Page number to retrieve",
+                        "default": 1
+                    },
+                    {
+                        "name": "per_page",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Number of results to return per page",
+                        "default": 25,
+                        "enum": [
+                            25,
+                            50,
+                            100
+                        ],
+                        "collectionFormat": "multi"
+                    },
+                    {
+                        "name": "suburb",
+                        "in": "query",
+                        "type": "string",
+                        "description": "Name of the suburb"
+                    },
+                    {
+                        "name": "suburb_id",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "ID of the suburb"
+                    }
+                ],
+                "tags": [
+                    "fuel-prices"
+                ]
+            }
+        },
+        "/fuel-prices/{id}": {
+            "parameters": [
+                {
+                    "in": "path",
+                    "description": "The fuel prices row id",
+                    "name": "id",
+                    "required": true,
+                    "type": "integer"
+                }
+            ],
+            "get": {
+                "responses": {
+                    "404": {
+                        "description": "Fuel price row was not found"
+                    },
+                    "200": {
+                        "description": "Successful"
+                    }
+                },
+                "summary": "Returns a fuel price row by its id",
+                "description": "Get fuel prices by their row ID",
+                "operationId": "get_fuel_prices",
+                "tags": [
+                    "fuel-prices"
+                ]
+            }
+        },
+        "/property/": {
+            "get": {
+                "responses": {
+                    "200": {
+                        "description": "Successful"
+                    },
+                    "404": {
+                        "description": "Page not found"
+                    },
+                    "400": {
+                        "description": "Invalid request parameters"
+                    }
+                },
+                "summary": "Returns property statistics",
+                "description": "Retrieve statistics on property by suburb",
+                "operationId": "get_property",
+                "parameters": [
+                    {
+                        "name": "ascending",
+                        "in": "query",
+                        "type": "boolean",
+                        "description": "Sort in ascending or descending order"
+                    },
+                    {
+                        "name": "page",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Page number to retrieve",
+                        "default": 1
+                    },
+                    {
+                        "name": "per_page",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Number of results to return per page",
+                        "default": 25,
+                        "enum": [
+                            25,
+                            50,
+                            100
+                        ],
+                        "collectionFormat": "multi"
+                    },
+                    {
+                        "name": "suburb_id",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "ID of the suburb"
+                    }
+                ],
+                "tags": [
+                    "property"
+                ]
+            }
+        },
+        "/restaurants/": {
+            "get": {
+                "responses": {
+                    "200": {
+                        "description": "Successful"
+                    },
+                    "404": {
+                        "description": "Page not found"
+                    },
+                    "400": {
+                        "description": "Invalid request parameters"
+                    }
+                },
+                "summary": "Returns a list of restaurants",
+                "description": "Get a list of all restaurants",
+                "operationId": "get_restaurants",
+                "parameters": [
+                    {
+                        "name": "order",
+                        "in": "query",
+                        "type": "string",
+                        "description": "Field to order by",
+                        "enum": [
+                            "id",
+                            "rating",
+                            "cuisines",
+                            "name",
+                            "address",
+                            "cost",
+                            "suburb_id"
+                        ],
+                        "collectionFormat": "multi"
+                    },
+                    {
+                        "name": "ascending",
+                        "in": "query",
+                        "type": "boolean",
+                        "description": "Sort in ascending or descending order"
+                    },
+                    {
+                        "name": "page",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Page number to retrieve",
+                        "default": 1
+                    },
+                    {
+                        "name": "per_page",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Number of results to return per page",
+                        "default": 25,
+                        "enum": [
+                            25,
+                            50,
+                            100
+                        ],
+                        "collectionFormat": "multi"
+                    },
+                    {
+                        "name": "cuisine",
+                        "in": "query",
+                        "type": "string",
+                        "description": "Cuisine the restaurant serves",
+                        "enum": [
+                            "Afghan",
+                            "African",
+                            "American",
+                            "Arabian",
+                            "Argentine",
+                            "Asian",
+                            "Asian Fusion",
+                            "Australian",
+                            "Austrian",
+                            "BBQ",
+                            "Bakery",
+                            "Bangladeshi",
+                            "Bar Food",
+                            "Basque",
+                            "Belgian",
+                            "Beverages",
+                            "Brasserie",
+                            "Brazilian",
+                            "British",
+                            "Bubble Tea",
+                            "Burger",
+                            "Burmese",
+                            "Cafe Food",
+                            "Cambodian",
+                            "Cantonese",
+                            "Caribbean",
+                            "Charcoal Chicken",
+                            "Chinese",
+                            "Coffee and Tea",
+                            "Colombian",
+                            "Contemporary",
+                            "Continental",
+                            "Creole",
+                            "Crepes",
+                            "Cuban",
+                            "Danish",
+                            "Deli",
+                            "Desserts",
+                            "Diner",
+                            "Drinks Only",
+                            "Dumplings",
+                            "Eastern European",
+                            "Egyptian",
+                            "Ethiopian",
+                            "European",
+                            "Falafel",
+                            "Fast Food",
+                            "Fijian",
+                            "Filipino",
+                            "Finger Food",
+                            "Fish and Chips",
+                            "French",
+                            "Fried Chicken",
+                            "Frozen Yogurt",
+                            "Fusion",
+                            "German",
+                            "Greek",
+                            "Grill",
+                            "Hawaiian",
+                            "Healthy Food",
+                            "Hot Pot",
+                            "Hungarian",
+                            "Ice Cream",
+                            "Indian",
+                            "Indonesian",
+                            "International",
+                            "Iranian",
+                            "Iraqi",
+                            "Irish",
+                            "Israeli",
+                            "Italian",
+                            "Japanese",
+                            "Japanese BBQ",
+                            "Juices",
+                            "Kebab",
+                            "Korean",
+                            "Korean BBQ",
+                            "Laotian",
+                            "Latin American",
+                            "Lebanese",
+                            "Malatang",
+                            "Malaysian",
+                            "Meat Pie",
+                            "Mediterranean",
+                            "Mexican",
+                            "Middle Eastern",
+                            "Modern Australian",
+                            "Modern European",
+                            "Mongolian",
+                            "Moroccan",
+                            "Nepalese",
+                            "North Indian",
+                            "Oriental",
+                            "Pakistani",
+                            "Pan Asian",
+                            "Patisserie",
+                            "Pho",
+                            "Pizza",
+                            "Pok\u00e9",
+                            "Polish",
+                            "Portuguese",
+                            "Pub Food",
+                            "Ramen",
+                            "Roast",
+                            "Russian",
+                            "Salad",
+                            "Sandwich",
+                            "Satay",
+                            "Scandinavian",
+                            "Seafood",
+                            "Shanghai",
+                            "Sichuan",
+                            "Singaporean",
+                            "Soul Food",
+                            "South Indian",
+                            "Spanish",
+                            "Sri Lankan",
+                            "Steak",
+                            "Street Food",
+                            "Sushi",
+                            "Swedish",
+                            "Swiss",
+                            "Taiwanese",
+                            "Tapas",
+                            "Tea",
+                            "Teppanyaki",
+                            "Teriyaki",
+                            "Tex-Mex",
+                            "Thai",
+                            "Tibetan",
+                            "Turkish",
+                            "Uruguayan",
+                            "Uyghur",
+                            "Vegan",
+                            "Vegetarian",
+                            "Venezuelan",
+                            "Vietnamese",
+                            "Yum Cha"
+                        ],
+                        "collectionFormat": "multi"
+                    },
+                    {
+                        "name": "suburb_id",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Suburb id of the restaurant"
+                    },
+                    {
+                        "name": "min_rating",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Filter by minimum rating",
+                        "enum": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5
+                        ],
+                        "collectionFormat": "multi"
+                    }
+                ],
+                "tags": [
+                    "restaurants"
+                ]
+            }
+        },
+        "/restaurants/{id}": {
+            "parameters": [
+                {
+                    "in": "path",
+                    "description": "The restaurant id",
+                    "name": "id",
+                    "required": true,
+                    "type": "integer"
+                }
+            ],
+            "get": {
+                "responses": {
+                    "200": {
+                        "description": "Successful",
+                        "schema": {
+                            "$ref": "#/definitions/Restaurant"
+                        }
+                    },
+                    "404": {
+                        "description": "Restaurant not found"
+                    }
+                },
+                "summary": "Retrieve a Restaurant by its id",
+                "description": "Retrieve a restaurant by its ID",
+                "operationId": "get_restaurant",
+                "tags": [
+                    "restaurants"
+                ]
+            }
+        },
+        "/schools/": {
+            "get": {
+                "responses": {
+                    "200": {
+                        "description": "Successful"
+                    },
+                    "404": {
+                        "description": "Page not found"
+                    },
+                    "400": {
+                        "description": "Invalid request parameters"
+                    }
+                },
+                "summary": "Returns a list of schools in Sydney",
+                "description": "Get a list of all public and private schools",
+                "operationId": "get_schools_list",
+                "parameters": [
+                    {
+                        "name": "order",
+                        "in": "query",
+                        "type": "string",
+                        "description": "Field to order by",
+                        "enum": [
+                            "id",
+                            "name",
+                            "street",
+                            "suburb",
+                            "postcode",
+                            "suburb_id",
+                            "type"
+                        ],
+                        "collectionFormat": "multi"
+                    },
+                    {
+                        "name": "ascending",
+                        "in": "query",
+                        "type": "boolean",
+                        "description": "Sort in ascending or descending order"
+                    },
+                    {
+                        "name": "page",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Page number to retrieve",
+                        "default": 1
+                    },
+                    {
+                        "name": "per_page",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Number of results to return per page",
+                        "default": 25,
+                        "enum": [
+                            25,
+                            50,
+                            100
+                        ],
+                        "collectionFormat": "multi"
+                    },
+                    {
+                        "name": "postcode",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Post code of the school"
+                    },
+                    {
+                        "name": "type",
+                        "in": "query",
+                        "type": "string",
+                        "description": "School type (public or private)",
+                        "enum": [
+                            "public",
+                            "private"
+                        ],
+                        "collectionFormat": "multi"
+                    }
+                ],
+                "tags": [
+                    "schools"
+                ]
+            }
+        },
+        "/schools/{id}": {
+            "parameters": [
+                {
+                    "in": "path",
+                    "description": "The school id",
+                    "name": "id",
+                    "required": true,
+                    "type": "integer"
+                }
+            ],
+            "get": {
+                "responses": {
+                    "200": {
+                        "description": "Successful",
+                        "schema": {
+                            "$ref": "#/definitions/School"
+                        }
+                    },
+                    "404": {
+                        "description": "School was not found"
+                    }
+                },
+                "summary": "Returns a school by its id",
+                "description": "Get a school by its ID",
+                "operationId": "get_schools",
+                "tags": [
+                    "schools"
+                ]
+            }
+        },
+        "/schools/{id}/predict/": {
+            "parameters": [
+                {
+                    "in": "path",
+                    "description": "The school id",
+                    "name": "id",
+                    "required": true,
+                    "type": "integer"
+                }
+            ],
+            "get": {
+                "responses": {
+                    "404": {
+                        "description": "School was not found"
+                    },
+                    "200": {
+                        "description": "Successful"
+                    }
+                },
+                "summary": "Predict the number of students at a school",
+                "description": "Predict school size",
+                "operationId": "get_predict",
+                "tags": [
+                    "schools"
+                ]
+            }
+        },
+        "/suburbs/": {
+            "get": {
+                "responses": {
+                    "200": {
+                        "description": "Successful"
+                    },
+                    "404": {
+                        "description": "Page not found"
+                    },
+                    "400": {
+                        "description": "Invalid request parameters"
+                    }
+                },
+                "summary": "Retrieve a list of Sydney suburbs",
+                "description": "Retrieve a list of suburbs",
+                "operationId": "get_suburbs",
+                "parameters": [
+                    {
+                        "name": "order",
+                        "in": "query",
+                        "type": "string",
+                        "description": "Field to order by",
+                        "enum": [
+                            "id",
+                            "name",
+                            "locality",
+                            "state",
+                            "post_code",
+                            "latitude",
+                            "longitude",
+                            "sqkm",
+                            "population_male",
+                            "population_female",
+                            "population_total",
+                            "avg_income"
+                        ],
+                        "collectionFormat": "multi"
+                    },
+                    {
+                        "name": "ascending",
+                        "in": "query",
+                        "type": "boolean",
+                        "description": "Sort in ascending or descending order"
+                    },
+                    {
+                        "name": "post_code",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Post code to filter by"
+                    },
+                    {
+                        "name": "page",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Page number to retrieve",
+                        "default": 1
+                    },
+                    {
+                        "name": "per_page",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Number of results to return per page",
+                        "default": 25,
+                        "enum": [
+                            25,
+                            50,
+                            100
+                        ],
+                        "collectionFormat": "multi"
+                    }
+                ],
+                "tags": [
+                    "suburbs"
+                ]
+            }
+        },
+        "/suburbs/search": {
+            "get": {
+                "responses": {
+                    "200": {
+                        "description": "Successful"
+                    },
+                    "404": {
+                        "description": "Could not find any matching suburbs"
+                    },
+                    "400": {
+                        "description": "Invalid request parameters"
+                    }
+                },
+                "summary": "Search for a suburb by its name or postcode",
+                "description": "Find suburbs using postcode or name",
+                "operationId": "get_suburb_search",
+                "parameters": [
+                    {
+                        "name": "order",
+                        "in": "query",
+                        "type": "string",
+                        "description": "Field to order by",
+                        "enum": [
+                            "id",
+                            "name",
+                            "locality",
+                            "state",
+                            "post_code",
+                            "latitude",
+                            "longitude",
+                            "sqkm",
+                            "population_male",
+                            "population_female",
+                            "population_total",
+                            "avg_income"
+                        ],
+                        "collectionFormat": "multi"
+                    },
+                    {
+                        "name": "ascending",
+                        "in": "query",
+                        "type": "boolean",
+                        "description": "Sort in ascending or descending order"
+                    },
+                    {
+                        "name": "page",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Page number to retrieve",
+                        "default": 1
+                    },
+                    {
+                        "name": "per_page",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Number of results to return per page",
+                        "default": 25,
+                        "enum": [
+                            25,
+                            50,
+                            100
+                        ],
+                        "collectionFormat": "multi"
+                    },
+                    {
+                        "name": "query",
+                        "in": "query",
+                        "type": "string",
+                        "required": true,
+                        "description": "Search by post code or name"
+                    }
+                ],
+                "tags": [
+                    "suburbs"
+                ]
+            }
+        },
+        "/suburbs/{id}": {
+            "parameters": [
+                {
+                    "in": "path",
+                    "description": "The suburb id",
+                    "name": "id",
+                    "required": true,
+                    "type": "integer"
+                }
+            ],
+            "get": {
+                "responses": {
+                    "200": {
+                        "description": "Successful",
+                        "schema": {
+                            "$ref": "#/definitions/Suburb"
+                        }
+                    },
+                    "404": {
+                        "description": "Suburb not found"
+                    }
+                },
+                "summary": "Retrieve a suburb by its id",
+                "description": "Retrieve a suburb by its ID",
+                "operationId": "get_suburb",
+                "tags": [
+                    "suburbs"
+                ]
+            }
+        },
+        "/suburbs/{id}/crime-rates": {
+            "parameters": [
+                {
+                    "in": "path",
+                    "description": "The suburb id",
+                    "name": "id",
+                    "required": true,
+                    "type": "integer"
+                }
+            ],
+            "get": {
+                "responses": {
+                    "404": {
+                        "description": "Suburb was not located"
+                    },
+                    "400": {
+                        "description": "Invalid request parameters"
+                    },
+                    "200": {
+                        "description": "Successful"
+                    }
+                },
+                "summary": "Returns a graph or json object showing the number of crimes reported per year for a given suburb",
+                "description": "Retrieve crime rate statistics for a suburb. This can be returned as JSON or a graph image",
+                "operationId": "get_suburb_crime_rates",
+                "parameters": [
+                    {
+                        "name": "start_year",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "The year the data will be filtered from (inclusive)",
+                        "default": 1990
+                    },
+                    {
+                        "name": "end_year",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "The year the data will be filtered to (inclusive)",
+                        "default": 2019
+                    }
+                ],
+                "produces": [
+                    "application/json",
+                    "image/png"
+                ],
+                "tags": [
+                    "suburbs"
+                ]
+            }
+        },
+        "/suburbs/{id}/fuel-prices": {
+            "parameters": [
+                {
+                    "in": "path",
+                    "description": "The suburb id",
+                    "name": "id",
+                    "required": true,
+                    "type": "integer"
+                }
+            ],
+            "get": {
+                "responses": {
+                    "404": {
+                        "description": "Suburb was not located"
+                    },
+                    "200": {
+                        "description": "Successful"
+                    }
+                },
+                "summary": "Returns a JSON object showing the average monthly fuel prices per fuel type for a given suburb",
+                "description": "Retrieve monthly fuel prices for a suburb",
+                "operationId": "get_suburb_fuel_prices",
+                "produces": [
+                    "application/json",
+                    "image/png"
+                ],
+                "tags": [
+                    "suburbs"
+                ]
+            }
+        },
+        "/suburbs/{id}/fuel-prices/forecast/{fuel_code}": {
+            "parameters": [
+                {
+                    "in": "path",
+                    "description": "The fuel type out of [P98, P95, U91, E10]",
+                    "name": "fuel_code",
+                    "required": true,
+                    "type": "string"
+                },
+                {
+                    "in": "path",
+                    "description": "The suburb id",
+                    "name": "id",
+                    "required": true,
+                    "type": "integer"
+                }
+            ],
+            "post": {
+                "responses": {
+                    "404": {
+                        "description": "Suburb was not located"
+                    },
+                    "400": {
+                        "description": "Invalid request parameters"
+                    },
+                    "201": {
+                        "description": "Successfully generated forecast"
+                    }
+                },
+                "summary": "Returns a JSON object showing the average monthly fuel price forecast for a given suburb and fuel type",
+                "description": "Retrieve a forecast for monthly fuel price for a given suburb and fuel type",
+                "operationId": "post_suburb_fuel_prices",
+                "tags": [
+                    "suburbs"
+                ]
+            }
+        },
+        "/suburbs/{id}/nearest": {
+            "parameters": [
+                {
+                    "in": "path",
+                    "description": "The suburb id",
+                    "name": "id",
+                    "required": true,
+                    "type": "integer"
+                }
+            ],
+            "get": {
+                "responses": {
+                    "200": {
+                        "description": "Successful"
+                    },
+                    "404": {
+                        "description": "Suburb could not be retrieved"
+                    }
+                },
+                "summary": "Returns a list of the five nearest suburbs for a given suburb id",
+                "description": "Retrieve the 5 nearest suburbs",
+                "operationId": "get_nearest_suburbs",
+                "tags": [
+                    "suburbs"
+                ]
+            }
+        },
+        "/suburbs/{id}/property": {
+            "parameters": [
+                {
+                    "in": "path",
+                    "description": "The suburb id",
+                    "name": "id",
+                    "required": true,
+                    "type": "integer"
+                }
+            ],
+            "get": {
+                "responses": {
+                    "200": {
+                        "description": "Successful"
+                    },
+                    "404": {
+                        "description": "Suburb was not located"
+                    }
+                },
+                "summary": "Returns property statistics for a given suburb",
+                "description": "Retrieve property statistics for a suburb",
+                "operationId": "get_suburb_property",
+                "tags": [
+                    "suburbs"
+                ]
+            }
+        },
+        "/suburbs/{id}/restaurants": {
+            "parameters": [
+                {
+                    "in": "path",
+                    "description": "The suburb id",
+                    "name": "id",
+                    "required": true,
+                    "type": "integer"
+                }
+            ],
+            "get": {
+                "responses": {
+                    "404": {
+                        "description": "Suburb was not located"
+                    },
+                    "400": {
+                        "description": "Invalid request parameters"
+                    },
+                    "200": {
+                        "description": "Successful"
+                    }
+                },
+                "summary": "Returns resturants that are located in a given suburb",
+                "description": "Retrieve a list of restaurants located in this suburb",
+                "operationId": "get_suburb_restaurants",
+                "parameters": [
+                    {
+                        "name": "order",
+                        "in": "query",
+                        "type": "string",
+                        "description": "Field to order by",
+                        "default": "rating",
+                        "enum": [
+                            "id",
+                            "rating",
+                            "cuisines",
+                            "name",
+                            "address",
+                            "cost",
+                            "suburb_id"
+                        ],
+                        "collectionFormat": "multi"
+                    },
+                    {
+                        "name": "ascending",
+                        "in": "query",
+                        "type": "boolean",
+                        "description": "Sort in ascending or descending order",
+                        "default": false
+                    },
+                    {
+                        "name": "page",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Page number to retrieve",
+                        "default": 1
+                    },
+                    {
+                        "name": "per_page",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Number of results to return per page",
+                        "default": 10,
+                        "enum": [
+                            10,
+                            25,
+                            100
+                        ],
+                        "collectionFormat": "multi"
+                    }
+                ],
+                "tags": [
+                    "suburbs"
+                ]
+            }
+        },
+        "/suburbs/{id}/schools": {
+            "parameters": [
+                {
+                    "in": "path",
+                    "description": "The suburb id",
+                    "name": "id",
+                    "required": true,
+                    "type": "integer"
+                }
+            ],
+            "get": {
+                "responses": {
+                    "200": {
+                        "description": "Successful"
+                    },
+                    "404": {
+                        "description": "Suburb could not be retrieved"
+                    }
+                },
+                "summary": "Returns a list of schools in a given suburb",
+                "description": "List the schools in a suburb",
+                "operationId": "get_suburb_schools",
+                "tags": [
+                    "suburbs"
+                ]
+            }
+        },
+        "/suburbs/{id}/train-stations": {
+            "parameters": [
+                {
+                    "in": "path",
+                    "description": "The suburb id",
+                    "name": "id",
+                    "required": true,
+                    "type": "integer"
+                }
+            ],
+            "get": {
+                "responses": {
+                    "404": {
+                        "description": "Suburb could not be retrieved"
+                    },
+                    "200": {
+                        "description": "Successful"
+                    }
+                },
+                "summary": "Returns a list or map of the five closest train stations to a given suburb",
+                "description": "Retrieve five nearest stations to a train station by its ID",
+                "operationId": "get_suburb_train_stations",
+                "produces": [
+                    "application/json",
+                    "image/png"
+                ],
+                "tags": [
+                    "suburbs"
+                ]
+            }
+        },
+        "/suburbs/{id}/weather": {
+            "parameters": [
+                {
+                    "in": "path",
+                    "description": "The suburb id",
+                    "name": "id",
+                    "required": true,
+                    "type": "integer"
+                }
+            ],
+            "get": {
+                "responses": {
+                    "404": {
+                        "description": "Suburb was not located"
+                    },
+                    "200": {
+                        "description": "Successful"
+                    }
+                },
+                "summary": "Returns weather statistics for a given suburb",
+                "description": "Retrieve a list of weather statistics for a suburb",
+                "operationId": "get_suburb_weather",
+                "tags": [
+                    "suburbs"
+                ]
+            }
+        },
+        "/train-stations/": {
+            "get": {
+                "responses": {
+                    "200": {
+                        "description": "Successful"
+                    },
+                    "404": {
+                        "description": "Page not found"
+                    },
+                    "400": {
+                        "description": "Invalid request parameters"
+                    }
+                },
+                "summary": "Returns a list of train stations",
+                "description": "Retrieve a list of all Sydney train stations",
+                "operationId": "get_train_stations",
+                "parameters": [
+                    {
+                        "name": "ascending",
+                        "in": "query",
+                        "type": "boolean",
+                        "description": "Sort in ascending or descending order"
+                    },
+                    {
+                        "name": "page",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Page number to retrieve",
+                        "default": 1
+                    },
+                    {
+                        "name": "per_page",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Number of results to return per page",
+                        "default": 25,
+                        "enum": [
+                            25,
+                            50,
+                            100
+                        ],
+                        "collectionFormat": "multi"
+                    },
+                    {
+                        "name": "name",
+                        "in": "query",
+                        "type": "string",
+                        "description": "Name of the train station"
+                    }
+                ],
+                "tags": [
+                    "train-stations"
+                ]
+            }
+        },
+        "/train-stations/nearest": {
+            "get": {
+                "responses": {
+                    "400": {
+                        "description": "Invalid request parameters"
+                    },
+                    "200": {
+                        "description": "Successful"
+                    }
+                },
+                "summary": "Find and retrieve a list of the closest five train stations from a given coordinate",
+                "description": "Find nearest 5 train stations from a given coordinate",
+                "operationId": "get_nearest_station_list",
+                "parameters": [
+                    {
+                        "name": "latitude",
+                        "in": "query",
+                        "type": "number",
+                        "required": true,
+                        "description": "The latitude value of the coordinate"
+                    },
+                    {
+                        "name": "longitude",
+                        "in": "query",
+                        "type": "number",
+                        "required": true,
+                        "description": "The longitude value of the coordinate"
+                    }
+                ],
+                "tags": [
+                    "train-stations"
+                ]
+            }
+        },
+        "/train-stations/{id}": {
+            "parameters": [
+                {
+                    "in": "path",
+                    "description": "The train station id",
+                    "name": "id",
+                    "required": true,
+                    "type": "integer"
+                }
+            ],
+            "get": {
+                "responses": {
+                    "200": {
+                        "description": "Successful",
+                        "schema": {
+                            "$ref": "#/definitions/Train Station"
+                        }
+                    },
+                    "404": {
+                        "description": "Train station not found"
+                    }
+                },
+                "summary": "Returns a train station for a given id",
+                "description": "Retrieve a train station by its ID",
+                "operationId": "get_train_station",
+                "tags": [
+                    "train-stations"
+                ]
+            }
+        },
+        "/users/": {
+            "post": {
+                "responses": {
+                    "401": {
+                        "description": "Not authorised"
+                    },
+                    "400": {
+                        "description": "Username in use"
+                    },
+                    "201": {
+                        "description": "User created successfully"
+                    }
+                },
+                "summary": "Creates a new user",
+                "description": "Add a new user",
+                "operationId": "post_users",
+                "parameters": [
+                    {
+                        "name": "password",
+                        "in": "formData",
+                        "type": "string",
+                        "required": true,
+                        "description": "Password for the user"
+                    },
+                    {
+                        "name": "role",
+                        "in": "formData",
+                        "type": "string",
+                        "required": true,
+                        "description": "Type of role for the user",
+                        "enum": [
+                            "admin",
+                            "user"
+                        ],
+                        "collectionFormat": "multi"
+                    },
+                    {
+                        "name": "username",
+                        "in": "formData",
+                        "type": "string",
+                        "required": true,
+                        "description": "Username of the user"
+                    }
+                ],
+                "consumes": [
+                    "application/x-www-form-urlencoded",
+                    "multipart/form-data"
+                ],
+                "tags": [
+                    "users"
+                ]
+            },
+            "get": {
+                "responses": {
+                    "200": {
+                        "description": "Successful"
+                    },
+                    "401": {
+                        "description": "Not authorised"
+                    },
+                    "400": {
+                        "description": "Invalid request parameters"
+                    }
+                },
+                "summary": "Returns a list of users",
+                "description": "Retrieve the list of users",
+                "operationId": "get_users",
+                "parameters": [
+                    {
+                        "name": "role",
+                        "in": "query",
+                        "type": "string",
+                        "description": "Type of role for the user",
+                        "enum": [
+                            "admin",
+                            "user"
+                        ],
+                        "collectionFormat": "multi"
+                    },
+                    {
+                        "name": "username",
+                        "in": "query",
+                        "type": "string",
+                        "description": "Username of the user"
+                    }
+                ],
+                "tags": [
+                    "users"
+                ]
+            }
+        },
+        "/users/token": {
+            "post": {
+                "responses": {
+                    "401": {
+                        "description": "Authorisation failed"
+                    },
+                    "201": {
+                        "description": "Created token successful"
+                    }
+                },
+                "summary": "Create a new token using valid user credentials",
+                "description": "Generates a authentication token",
+                "operationId": "post_token",
+                "parameters": [
+                    {
+                        "name": "username",
+                        "in": "formData",
+                        "type": "string",
+                        "required": true
+                    },
+                    {
+                        "name": "password",
+                        "in": "formData",
+                        "type": "string",
+                        "required": true
+                    }
+                ],
+                "consumes": [
+                    "application/x-www-form-urlencoded",
+                    "multipart/form-data"
+                ],
+                "tags": [
+                    "users"
+                ]
+            }
+        },
+        "/users/{id}": {
+            "parameters": [
+                {
+                    "in": "path",
+                    "description": "The id of the user",
+                    "name": "id",
+                    "required": true,
+                    "type": "integer"
+                }
+            ],
+            "put": {
+                "responses": {
+                    "404": {
+                        "description": "User was not found"
+                    },
+                    "401": {
+                        "description": "Not authorised"
+                    },
+                    "400": {
+                        "description": "Username in use"
+                    },
+                    "200": {
+                        "description": "Successful"
+                    }
+                },
+                "summary": "Updates a user",
+                "description": "Update a user by its ID",
+                "operationId": "put_user",
+                "parameters": [
+                    {
+                        "name": "password",
+                        "in": "formData",
+                        "type": "string",
+                        "required": true,
+                        "description": "Password for the user"
+                    },
+                    {
+                        "name": "role",
+                        "in": "formData",
+                        "type": "string",
+                        "description": "Type of role for the user",
+                        "enum": [
+                            "admin",
+                            "user"
+                        ],
+                        "collectionFormat": "multi"
+                    },
+                    {
+                        "name": "username",
+                        "in": "formData",
+                        "type": "string",
+                        "description": "Username of the user"
+                    }
+                ],
+                "consumes": [
+                    "application/x-www-form-urlencoded",
+                    "multipart/form-data"
+                ],
+                "tags": [
+                    "users"
+                ]
+            },
+            "delete": {
+                "responses": {
+                    "404": {
+                        "description": "User was not found"
+                    },
+                    "401": {
+                        "description": "Not authorised"
+                    },
+                    "200": {
+                        "description": "Successfully deleted user"
+                    }
+                },
+                "summary": "Removes a user from the database",
+                "description": "Delete a user by their id",
+                "operationId": "delete_user",
+                "tags": [
+                    "users"
+                ]
+            },
+            "get": {
+                "responses": {
+                    "200": {
+                        "description": "Successfully retrieved user",
+                        "schema": {
+                            "$ref": "#/definitions/User"
+                        }
+                    },
+                    "404": {
+                        "description": "User not found"
+                    },
+                    "401": {
+                        "description": "Not authorised"
+                    }
+                },
+                "summary": "Returns a user",
+                "description": "Retrieve a user by their id",
+                "operationId": "get_user",
+                "tags": [
+                    "users"
+                ]
+            }
+        },
+        "/weather/": {
+            "get": {
+                "responses": {
+                    "404": {
+                        "description": "Page not found"
+                    },
+                    "400": {
+                        "description": "Invalid request parameters"
+                    },
+                    "200": {
+                        "description": "Successful"
+                    }
+                },
+                "summary": "Returns a list of weather statistics for each suburb",
+                "description": "Retrieve a list of weather statistics",
+                "operationId": "get_weather",
+                "parameters": [
+                    {
+                        "name": "page",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Page number of results",
+                        "default": 1
+                    },
+                    {
+                        "name": "per_page",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Number of items per page",
+                        "default": 25,
+                        "enum": [
+                            25,
+                            50,
+                            100
+                        ],
+                        "collectionFormat": "multi"
+                    },
+                    {
+                        "name": "suburb_id",
+                        "in": "query",
+                        "type": "integer",
+                        "description": "Suburb id to filter by"
+                    }
+                ],
+                "tags": [
+                    "weather"
+                ]
+            }
+        }
+    },
+    "info": {
+        "title": "Sydney Data Services API",
+        "version": "1.0",
+        "description": "Analytics data on the city of Sydney, Australia"
+    },
+    "produces": [
+        "application/json"
+    ],
+    "consumes": [
+        "application/json"
+    ],
+    "securityDefinitions": {
+        "API-KEY": {
+            "type": "apiKey",
+            "in": "header",
+            "name": "AUTH-TOKEN"
+        }
+    },
+    "security": [
+        {
+            "API-KEY": []
+        }
+    ],
+    "tags": [
+        {
+            "name": "users",
+            "description": "User account access for the API"
+        },
+        {
+            "name": "suburbs",
+            "description": "Information and statistics on Sydney suburbs"
+        },
+        {
+            "name": "schools",
+            "description": "Information on Sydney schools"
+        },
+        {
+            "name": "restaurants",
+            "description": "Information on Sydney restaurants"
+        },
+        {
+            "name": "train-stations",
+            "description": "Information on Sydney trains proximity"
+        },
+        {
+            "name": "crimes",
+            "description": "Crime rates and statistics for Sydney suburbs"
+        },
+        {
+            "name": "weather",
+            "description": "Current weather statistics and forecasting"
+        },
+        {
+            "name": "property",
+            "description": "Statistics on Sydney property by suburb"
+        },
+        {
+            "name": "fuel-prices",
+            "description": "Information on Sydney fuel prices"
+        },
+        {
+            "name": "analytics",
+            "description": "API usage stats"
+        }
+    ],
+    "definitions": {
+        "User": {
+            "properties": {
+                "id": {
+                    "type": "integer",
+                    "description": "The unique identifier for the user"
+                },
+                "username": {
+                    "type": "string",
+                    "description": "Unique username for this user"
+                },
+                "password": {
+                    "type": "string",
+                    "description": "Password for authentication"
+                },
+                "role": {
+                    "type": "string",
+                    "description": "User permissions role"
+                }
+            },
+            "type": "object"
+        },
+        "Suburb": {
+            "properties": {
+                "id": {
+                    "type": "integer",
+                    "description": "Unique identifier of the suburb"
+                },
+                "name": {
+                    "type": "string",
+                    "description": "Name of the suburb"
+                },
+                "locality": {
+                    "type": "string",
+                    "description": "Local council name"
+                },
+                "state": {
+                    "type": "string",
+                    "description": "State"
+                },
+                "post_code": {
+                    "type": "integer",
+                    "description": "Post code for this suburb"
+                },
+                "latitude": {
+                    "type": "number",
+                    "description": "Latitude"
+                },
+                "longitude": {
+                    "type": "number",
+                    "description": "Longitude"
+                },
+                "sqkm": {
+                    "type": "number",
+                    "description": "Area of suburb"
+                },
+                "population_male": {
+                    "type": "integer",
+                    "description": "Number of male residents"
+                },
+                "population_female": {
+                    "type": "integer",
+                    "description": "Numer of female residents"
+                },
+                "population_total": {
+                    "type": "integer",
+                    "description": "Total residents"
+                },
+                "avg_income": {
+                    "type": "number",
+                    "description": "Average yearly income"
+                }
+            },
+            "type": "object"
+        },
+        "School": {
+            "properties": {
+                "id": {
+                    "type": "integer",
+                    "description": "The unique identifier for the school"
+                },
+                "name": {
+                    "type": "string",
+                    "description": "Name of the school"
+                },
+                "street": {
+                    "type": "string",
+                    "description": "Street of address"
+                },
+                "suburb": {
+                    "type": "string",
+                    "description": "Suburb of address"
+                },
+                "postcode": {
+                    "type": "integer",
+                    "description": "Postcode of address"
+                },
+                "suburb_id": {
+                    "type": "integer",
+                    "description": "Id of the suburb of this school"
+                },
+                "type": {
+                    "type": "string",
+                    "description": "School type (public or private)"
+                }
+            },
+            "type": "object"
+        },
+        "Restaurant": {
+            "properties": {
+                "id": {
+                    "type": "integer",
+                    "description": "Unique identifier of this restaurant"
+                },
+                "rating": {
+                    "type": "number",
+                    "description": "Rating out of 5"
+                },
+                "cuisines": {
+                    "type": "array",
+                    "description": "Type of cuisine served by this restaurant",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "name": {
+                    "type": "string",
+                    "description": "Name of the restaurant"
+                },
+                "address": {
+                    "type": "string",
+                    "description": ""
+                },
+                "cost": {
+                    "type": "number",
+                    "description": "Average cost per meal for 2 people"
+                },
+                "suburb_id": {
+                    "type": "integer",
+                    "description": "Suburb identifier"
+                }
+            },
+            "type": "object"
+        },
+        "Train Station": {
+            "properties": {
+                "id": {
+                    "type": "integer",
+                    "description": "Unique identifier of this train station"
+                },
+                "name": {
+                    "type": "string",
+                    "description": "Name of the train station"
+                },
+                "latitude": {
+                    "type": "number",
+                    "description": "Latitude position"
+                },
+                "longitude": {
+                    "type": "number",
+                    "description": "Longitude position"
+                },
+                "morning_peak": {
+                    "type": "string",
+                    "description": "Hours of morning peak usage"
+                },
+                "afternoon_peak": {
+                    "type": "string",
+                    "description": "Hours of afternoon peak usage"
+                }
+            },
+            "type": "object"
+        },
+        "Crime rate": {
+            "properties": {
+                "suburb_id": {
+                    "type": "integer",
+                    "description": "Suburb id that these rates refer to"
+                },
+                "suburb": {
+                    "type": "string",
+                    "description": "Suburb name that these rates refer to"
+                },
+                "data": {
+                    "type": "array",
+                    "items": {
+                        "type": "integer",
+                        "description": "Number of reported offenses for a given year"
+                    }
+                }
+            },
+            "type": "object"
+        },
+        "Fuel price": {
+            "properties": {
+                "suburb_id": {
+                    "type": "integer",
+                    "description": "Suburb id"
+                },
+                "suburb": {
+                    "type": "string",
+                    "description": "Suburb this price refers to"
+                },
+                "fuel_code": {
+                    "type": "integer",
+                    "description": "Unique code for this fuel type"
+                }
+            },
+            "type": "object"
+        }
+    },
+    "responses": {
+        "ParseError": {
+            "description": "When a mask can't be parsed"
+        },
+        "MaskError": {
+            "description": "When any error occurs on mask"
+        }
+    }
+}

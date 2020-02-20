@@ -1,0 +1,10 @@
+GUI/.firebase/hosting.YnVpbGQ.cache
+.DS_Store
+.idea
+__pycache__
+/API/analytics/suburbs_new.py
+/API/food/all_output.html
+/API/food/suburbs.csv
+log.log
+parsed_log.csv
+credentials.json

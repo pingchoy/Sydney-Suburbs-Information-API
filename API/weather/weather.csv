@@ -1,0 +1,679 @@
+suburb,temp,pressure,humidity,forecast_22Nov,condition_22Nov,forecast_23Nov,condition_23Nov,forecast_23Nov.1,condition_23Nov.1,forecast_24Nov,condition_24Nov,forecast_25Nov,condition_25Nov,suburb_id
+Abbotsbury,24.1,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10000
+Abbotsford,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10001
+Acacia Gardens,24.1,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10002
+Agnes Banks,24.1,1012,51,32.84,Clouds,28.69,Clouds,23.72,Clouds,29.8,Clouds,26.12,Clouds,10003
+Airds,24.18,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10004
+Alexandria,23.97,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10005
+Alfords Point,24.26,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10006
+Allambie Heights,24.27,1012,51,22.83,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10007
+Allawah,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10008
+Ambarvale,24.18,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10009
+Annandale,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10010
+Annangrove,24.1,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10011
+Arcadia,24.26,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10012
+Arncliffe,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10013
+Arndell Park,24.1,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10014
+Artarmon,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10015
+Ashbury,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10016
+Ashcroft,24.1,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10017
+Ashfield,24.15,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10018
+Asquith,24.27,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10019
+Auburn,18.33,1018,47,24.6,Clear,23.33,Clear,29.31,Clear,30.96,Clouds,19.38,Clouds,10020
+Austral,24.1,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10021
+Avalon Beach,24.25,1012,51,23.28,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10022
+Badgerys Creek,24.1,1012,51,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10023
+Balgowlah,24.27,1012,51,22.83,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10024
+Balgowlah Heights,24.27,1012,51,22.83,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10025
+Balmain,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10026
+Balmain East,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10027
+Bangor,24.26,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10028
+Banksia,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10029
+Banksmeadow,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10030
+Bankstown,24.26,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10031
+Barangaroo,24.11,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10033
+Barden Ridge,24.26,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10034
+Bardia,24.1,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10035
+Bardwell Park,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10036
+Bardwell Valley,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10037
+Bass Hill,24.11,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10038
+Baulkham Hills,24.11,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10039
+Bayview,24.25,1012,51,23.28,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10040
+Beacon Hill,24.27,1012,51,22.83,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10041
+Beaconsfield,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10042
+Beaumont Hills,24.1,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10043
+Beecroft,24.26,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10044
+Belfield,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10045
+Bella Vista,24.1,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10046
+Bellevue Hill,24.11,1013,82,22.83,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10047
+Belmore,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10048
+Belrose,24.27,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10049
+Berala,24.26,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10050
+Berkshire Park,24.1,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10051
+Berowra,24.25,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10052
+Berowra Creek,24.25,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10053
+Berowra Heights,24.25,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10054
+Berowra Waters,24.25,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10055
+Berrilee,24.25,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10056
+Beverley Park,24.11,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10057
+Beverly Hills,24.26,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10058
+Bexley,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10059
+Bexley North,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10060
+Bickley Vale,24.23,1013,82,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10061
+Bidwill,24.1,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10062
+Bilgola Beach,24.25,1012,51,23.28,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10063
+Bilgola Plateau,24.25,1012,51,23.28,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10064
+Birchgrove,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10065
+Birrong,24.11,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10066
+Blackett,24.1,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10067
+Blacktown,24.1,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10068
+Blair Athol,24.18,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10069
+Blairmount,24.18,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10070
+Blakehurst,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10071
+Bligh Park,24.1,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10072
+Bondi,24.27,1012,51,22.83,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10073
+Bondi Beach,24.11,1013,82,22.83,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10074
+Bondi Junction,24.29,1012,51,22.83,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10075
+Bonnet Bay,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10076
+Bonnyrigg,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10077
+Bonnyrigg Heights,24.12,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10078
+Bossley Park,24.12,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10079
+Botany,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10080
+Bow Bowing,24.2,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10081
+Box Hill,24.12,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10082
+Bradbury,18.24,1019,51,19.61,Clouds,16.95,Clouds,18.53,Clouds,24.53,Clouds,15.57,Clear,10083
+Breakfast Point,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10084
+Brighton-Le-Sands,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10085
+Bringelly,24.2,1012,51,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10086
+Bronte,24.29,1012,51,22.83,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10087
+Brooklyn,24.27,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10088
+Brookvale,24.29,1012,51,22.83,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10089
+Bundeena,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10090
+Bungarribee,24.12,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10091
+Burraneer,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10092
+Burwood,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10093
+Burwood Heights,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10094
+Busby,24.12,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10095
+Cabarita,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10096
+Cabramatta,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10097
+Cabramatta West,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10098
+Caddens,24.12,1012,51,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10099
+Cambridge Gardens,24.12,1012,51,32.84,Clouds,28.69,Clouds,23.72,Clouds,29.8,Clouds,26.12,Clouds,10100
+Cambridge Park,24.12,1012,51,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10101
+Camden,24.25,1013,82,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10102
+Camden South,24.25,1013,82,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10103
+Camellia,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10104
+Cammeray,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10105
+Campbelltown,24.2,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10106
+Camperdown,14.58,1015,67,19.41,Clouds,16.19,Rain,20.47,Clouds,22.03,Clouds,14.13,Rain,10107
+Campsie,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10108
+Canada Bay,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10109
+Canley Heights,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10110
+Canley Vale,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10111
+Canoelands,24.12,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10112
+Canterbury,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10113
+Caringbah,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10114
+Caringbah South,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10115
+Carlingford,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10116
+Carlton,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10117
+Carnes Hill,24.12,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10118
+Carramar,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10119
+Carss Park,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10120
+Cartwright,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10121
+Castle Cove,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10122
+Castle Hill,24.13,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10123
+Castlecrag,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10124
+Castlereagh,24.12,1012,51,32.84,Clouds,28.69,Clouds,23.72,Clouds,29.8,Clouds,26.12,Clouds,10125
+Casula,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10126
+Catherine Field,24.2,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10127
+Cattai,24.12,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10128
+Cawdor,24.25,1013,82,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10129
+Cecil Hills,24.12,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10130
+Cecil Park,24.12,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10131
+Centennial Park,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10132
+Chatswood,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10133
+Chatswood West,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10134
+Cheltenham,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10135
+Cherrybrook,24.13,1013,82,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10136
+Chester Hill,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10137
+Chifley,30.05,1013,19,33.56,Clouds,26.64,Clear,25.08,Clear,26.73,Clear,22.01,Clouds,10138
+Chippendale,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10139
+Chipping Norton,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10140
+Chiswick,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10141
+Chullora,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10142
+Church Point,24.28,1012,51,23.34,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10143
+Claremont Meadows,24.12,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10144
+Clarendon,24.12,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10145
+Clareville,24.28,1012,51,23.34,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10146
+Claymore,24.2,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10147
+Clemton Park,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10148
+Clontarf,24.29,1012,51,22.9,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10149
+Clovelly,24.29,1012,51,22.9,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10150
+Clyde,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10151
+Coasters Retreat,24.27,1012,51,23.34,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10152
+Cobbitty,24.2,1013,82,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10153
+Colebee,24.12,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10154
+Collaroy,24.29,1012,51,23.37,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10155
+Collaroy Plateau,24.29,1012,51,23.37,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10156
+Colyton,24.12,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10157
+Como,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10158
+Concord,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10159
+Concord West,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10160
+Condell Park,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10161
+Connells Point,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10162
+Constitution Hill,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10163
+Coogee,24.29,1012,51,22.83,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10164
+Cornwallis,24.12,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10165
+Cottage Point,24.27,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10166
+Cowan,24.27,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10167
+Cranebrook,24.12,1012,51,32.84,Clouds,28.69,Clouds,23.72,Clouds,29.8,Clouds,26.12,Clouds,10168
+Cremorne,24.11,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10169
+Cremorne Point,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10170
+Cromer,24.29,1012,51,23.37,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10171
+Cronulla,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10172
+Crows Nest,27.37,1019,36,33.46,Clear,31.81,Clear,31.41,Clear,30.62,Clouds,32.34,Clear,10173
+Croydon,18.39,1019,51,19.83,Clouds,16.95,Clouds,18.53,Clouds,24.53,Clouds,15.57,Clear,10174
+Croydon Park,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10175
+Cumberland Reach,24.37,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10176
+Curl Curl,24.29,1012,51,22.9,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10177
+Currans Hill,24.2,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10178
+Currawong Beach,24.27,1012,51,23.34,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10179
+Daceyville,24.15,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10180
+Dangar Island,24.27,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10181
+Darling Point,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10182
+Darlinghurst,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10183
+Darlington,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10184
+Davidson,24.29,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10185
+Dawes Point,23.97,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10186
+Dean Park,24.12,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10187
+Dee Why,24.29,1012,51,22.92,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10188
+Denham Court,24.12,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10189
+Denistone,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10190
+Denistone East,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10191
+Denistone West,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10192
+Dharruk,24.12,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10193
+Dolans Bay,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10194
+Dolls Point,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10195
+Doonside,24.12,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10196
+Double Bay,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10197
+Dover Heights,24.29,1012,51,22.92,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10198
+Drummoyne,23.97,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10199
+Duffys Forest,24.27,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10200
+Dulwich Hill,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10201
+Dundas,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10202
+Dundas Valley,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10203
+Dural,24.13,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10204
+Eagle Vale,24.2,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10205
+Earlwood,24.15,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10206
+East Hills,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10208
+East Killara,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10209
+East Kurrajong,24.12,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10210
+East Lindfield,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10211
+East Ryde,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10212
+Eastern Creek,24.12,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10213
+Eastgardens,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10214
+Eastlakes,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10215
+Eastwood,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10216
+Ebenezer,24.12,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10217
+Edensor Park,24.12,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10218
+Edgecliff,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10219
+Edmondson Park,24.12,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10220
+Elanora Heights,24.27,1012,51,23.36,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10221
+Elderslie,24.2,1013,82,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10222
+Elizabeth Bay,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10223
+Elizabeth Hills,24.12,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10224
+Ellis Lane,24.25,1013,82,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10225
+Elvina Bay,24.27,1012,51,23.36,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10226
+Emerton,24.12,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10227
+Emu Heights,24.12,1012,51,32.84,Clouds,28.69,Clouds,23.72,Clouds,29.8,Clouds,26.12,Clouds,10228
+Emu Plains,24.12,1012,51,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10229
+Enfield,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10230
+Engadine,24.28,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10231
+Englorie Park,24.2,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10232
+Enmore,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10233
+Epping,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10234
+Ermington,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10235
+Erskine Park,24.12,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10236
+Erskineville,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10237
+Eschol Park,24.2,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10238
+Eveleigh,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10239
+Fairfield,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10240
+Fairfield East,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10241
+Fairfield Heights,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10242
+Fairfield West,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10243
+Fairlight,24.29,1012,51,22.92,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10244
+Fiddletown,24.27,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10245
+Five Dock,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10246
+Flemington,17.37,1016,48,17.63,Clear,17.39,Clouds,15.75,Clear,21.25,Clouds,13.48,Rain,10247
+Forest Glen,24.12,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10248
+Forest Lodge,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10249
+Forestville,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10250
+Freemans Reach,24.12,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10251
+Frenchs Forest,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10252
+Freshwater,24.29,1012,51,22.92,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10253
+Galston,24.29,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10254
+Georges Hall,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10255
+Gilead,24.26,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10256
+Girraween,24.13,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10257
+Gladesville,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10258
+Glebe,20.38,1012,34,21.02,Clouds,13.67,Rain,14.1,Clouds,15.22,Clouds,11.54,Rain,10259
+Gledswood Hills,24.2,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10260
+Glen Alpine,24.2,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10261
+Glendenning,24.12,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10262
+Glenfield,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10263
+Glenhaven,24.13,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10264
+Glenmore Park,24.12,1012,51,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10265
+Glenorie,24.13,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10266
+Glenwood,24.12,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10267
+Glossodia,24.12,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10268
+Gordon,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10269
+Granville,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10270
+Grasmere,24.25,1013,82,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10271
+Grays Point,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10272
+Great Mackerel Beach,24.27,1012,51,23.36,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10273
+Green Valley,24.12,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10274
+Greenacre,24.15,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10275
+Greendale,24.2,1012,51,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10276
+Greenfield Park,24.12,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10277
+Greenhills Beach,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10278
+Greenwich,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10279
+Gregory Hills,24.2,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10280
+Greystanes,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10281
+Grose Vale,24.12,1012,51,32.84,Clouds,28.69,Clouds,23.72,Clouds,29.8,Clouds,26.12,Clouds,10282
+Grose Wold,24.12,1012,51,32.84,Clouds,28.69,Clouds,23.72,Clouds,29.8,Clouds,26.12,Clouds,10283
+Guildford,17.71,1021,59,28.03,Clouds,29.47,Clear,27.37,Clouds,26.64,Clear,30.87,Clear,10284
+Guildford West,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10285
+Gymea,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10286
+Gymea Bay,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10287
+Haberfield,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10288
+Hammondville,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10289
+Harrington Park,24.2,1013,82,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10290
+Harris Park,24.15,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10291
+Hassall Grove,24.12,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10292
+Haymarket,24.15,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10293
+Heathcote,16.8,1014,38,24.99,Clear,23.33,Clouds,25.27,Clear,30.65,Clouds,18.38,Clear,10294
+Hebersham,24.12,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10295
+Heckenberg,24.12,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10296
+Henley,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10297
+Hillsdale,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10298
+Hinchinbrook,24.12,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10299
+Hobartville,24.12,1012,51,32.84,Clouds,28.69,Clouds,23.72,Clouds,29.8,Clouds,26.12,Clouds,10300
+Holroyd,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10301
+Holsworthy,24.11,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10302
+Homebush,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10303
+Homebush West,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10304
+Horningsea Park,24.12,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10305
+Hornsby,24.29,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10306
+Hornsby Heights,24.29,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10307
+Horsley Park,24.12,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10308
+Hoxton Park,24.12,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10309
+Hunters Hill,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10310
+Huntingwood,24.12,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10311
+Huntleys Cove,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10312
+Huntleys Point,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10313
+Hurlstone Park,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10314
+Hurstville,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10315
+Hurstville Grove,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10316
+Illawong,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10317
+Ingleburn,24.12,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10318
+Ingleside,24.27,1012,51,23.36,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10319
+Jamisontown,24.12,1012,51,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10320
+Jannali,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10321
+Jordan Springs,24.1,1012,51,32.84,Clouds,28.69,Clouds,23.72,Clouds,29.8,Clouds,26.12,Clouds,10322
+Kangaroo Point,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10323
+Kareela,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10324
+Kearns,24.2,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10325
+Kellyville,24.13,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10326
+Kellyville Ridge,24.12,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10327
+Kemps Creek,24.12,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10328
+Kensington,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10329
+Kenthurst,24.13,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10330
+Kentlyn,24.2,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10331
+Killara,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10332
+Killarney Heights,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10333
+Kings Langley,24.13,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10334
+Kings Park,24.12,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10335
+Kingsford,24.15,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10336
+Kingsgrove,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10337
+Kingswood,24.14,1012,51,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10338
+Kirkham,24.2,1013,82,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10340
+Kirrawee,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10341
+Kirribilli,24.15,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10342
+Kogarah,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10343
+Kogarah Bay,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10344
+Ku-ring-gai Chase,24.27,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10345
+Kurmond,24.12,1012,51,32.84,Clouds,28.69,Clouds,23.72,Clouds,29.8,Clouds,26.12,Clouds,10346
+Kurnell,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10347
+Kurraba Point,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10348
+Kurrajong,24.12,1012,51,32.84,Clouds,28.69,Clouds,23.72,Clouds,29.8,Clouds,26.12,Clouds,10349
+Kurrajong Hills,24.15,1012,51,32.84,Clouds,28.69,Clouds,23.72,Clouds,29.8,Clouds,26.12,Clouds,10350
+Kyeemagh,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10351
+Kyle Bay,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10352
+La Perouse,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10353
+Lakemba,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10354
+Lalor Park,24.13,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10355
+Lane Cove,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10356
+Lane Cove North,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10357
+Lane Cove West,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10358
+Lansdowne,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10359
+Lansvale,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10360
+Laughtondale,24.15,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10361
+Lavender Bay,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10362
+Leets Vale,24.42,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10363
+Leichhardt,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10364
+Leonay,24.12,1012,51,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10366
+Leppington,24.12,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10367
+Lethbridge Park,24.12,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10368
+Leumeah,24.2,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10369
+Lewisham,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10370
+Liberty Grove,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10371
+Lidcombe,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10372
+Lilli Pilli,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10373
+Lilyfield,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10374
+Lindfield,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10375
+Linley Point,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10376
+Liverpool,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10378
+Llandilo,24.12,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10379
+Loftus,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10380
+Londonderry,24.12,1012,51,32.84,Clouds,28.69,Clouds,23.72,Clouds,29.8,Clouds,26.12,Clouds,10381
+Long Point,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10382
+Longueville,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10383
+Lovett Bay,24.27,1012,51,23.36,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10384
+Lower Portland,24.43,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10385
+Lucas Heights,24.28,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10386
+Luddenham,24.2,1012,51,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10387
+Lugarno,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10388
+Lurnea,24.12,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10389
+Macquarie Fields,24.12,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10390
+Macquarie Links,24.1,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10391
+Macquarie Park,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10392
+Maianbar,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10393
+Malabar,24.27,1012,51,22.92,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10394
+Manly,24.15,1013,82,22.92,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10395
+Manly Vale,24.27,1012,51,22.92,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10396
+Maraylya,24.1,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10397
+Marayong,24.1,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10398
+Maroota,24.36,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10399
+Maroubra,24.27,1012,51,22.92,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10400
+Marrickville,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10401
+Marsden Park,24.1,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10402
+Marsfield,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10403
+Mascot,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10404
+Matraville,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10405
+Mays Hill,24.11,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10406
+McCarrs Creek,24.27,1012,51,23.36,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10407
+McGraths Hill,24.1,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10408
+McMahons Point,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10409
+Meadowbank,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10410
+Melrose Park,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10411
+Menai,24.15,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10412
+Menangle Park,24.23,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10413
+Merrylands,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10414
+Merrylands West,24.11,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10415
+Middle Cove,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10416
+Middle Dural,24.11,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10417
+Middleton Grange,24.1,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10418
+Miller,24.1,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10419
+Millers Point,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10420
+Milperra,24.11,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10421
+Milsons Passage,24.1,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10422
+Milsons Point,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10423
+Minchinbury,24.1,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10424
+Minto,24.18,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10425
+Minto Heights,24.18,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10426
+Miranda,23.97,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10427
+Mona Vale,24.25,1012,51,23.36,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10428
+Monterey,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10429
+Moore Park,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10430
+Moorebank,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10431
+Morning Bay,24.25,1012,51,23.36,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10432
+Mortdale,24.26,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10433
+Mortlake,15.55,1015,67,19.96,Clouds,16.19,Rain,20.47,Clouds,22.03,Clouds,14.13,Rain,10434
+Mosman,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10435
+Mount Annan,24.18,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10436
+Mount Colah,24.27,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10437
+Mount Druitt,24.12,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10438
+Mount Kuring-Gai,24.27,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10439
+Mount Lewis,24.26,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10440
+Mount Pritchard,24.1,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10441
+Mount Vernon,24.1,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10442
+Mulgoa,24.17,1012,51,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10443
+Mulgrave,24.1,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10444
+Narellan Vale,24.18,1013,82,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10445
+Naremburn,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10446
+Narrabeen,24.25,1012,51,23.36,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10447
+Narraweena,24.27,1012,51,22.92,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10448
+Narwee,24.26,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10449
+Nelson,24.1,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10450
+Neutral Bay,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10451
+Newington,17.07,1017,43,23.14,Clear,18.8,Clouds,21.06,Clear,26.27,Clouds,13.67,Clear,10452
+Newport,24.25,1012,51,23.36,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10453
+Newtown,28.92,1018,39,30.19,Clear,28.5,Clear,28.11,Clear,27.75,Clear,29.19,Clear,10454
+Normanhurst,24.27,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10455
+North Balgowlah,24.27,1012,51,22.92,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10456
+North Bondi,24.27,1012,51,22.92,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10457
+North Curl Curl,24.29,1012,51,22.92,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10458
+North Epping,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10459
+North Kellyville,24.15,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10460
+North Manly,24.27,1012,51,22.92,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10461
+North Narrabeen,24.25,1012,51,23.36,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10462
+North Parramatta,24.11,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10463
+North Richmond,24.1,1012,51,32.84,Clouds,28.69,Clouds,23.72,Clouds,29.8,Clouds,26.12,Clouds,10464
+North Rocks,24.11,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10465
+North Ryde,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10466
+North St Marys,24.1,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10468
+North Strathfield,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10469
+North Sydney,24.15,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10470
+North Turramurra,24.27,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10471
+North Wahroonga,24.27,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10472
+North Willoughby,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10473
+Northbridge,17.72,1021,59,28.03,Clouds,29.47,Clear,27.37,Clouds,26.64,Clear,30.87,Clear,10474
+Northmead,24.11,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10475
+Northwood,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10476
+Norwest,24.11,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10477
+Oakhurst,24.1,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10478
+Oakville,24.1,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10479
+Oatlands,20.32,1012,34,25.03,Clouds,12.62,Rain,19.59,Clouds,23.31,Clouds,11.24,Rain,10480
+Oatley,24.26,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10481
+Old Guildford,24.11,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10482
+Old Toongabbie,24.11,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10483
+Oran Park,24.18,1013,82,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10484
+Orchard Hills,24.1,1012,51,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10485
+Oxford Falls,24.27,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10486
+Oxley Park,24.1,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10487
+Oyster Bay,24.26,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10488
+Paddington,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10489
+Padstow,24.26,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10490
+Padstow Heights,24.26,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10491
+Pagewood,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10492
+Palm Beach,24.25,1012,51,23.36,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10493
+Panania,24.26,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10494
+Parklea,24.1,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10495
+Parramatta,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10496
+Peakhurst,24.26,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10497
+Peakhurst Heights,24.26,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10498
+Pemulwuy,24.1,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10499
+Pendle Hill,24.11,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10500
+Pennant Hills,24.26,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10501
+Penrith,24.1,1012,51,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10502
+Penshurst,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10503
+Petersham,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10504
+Phillip Bay,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10505
+Picnic Point,24.26,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10506
+Pitt Town,24.1,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10507
+Pitt Town Bottoms,24.1,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10508
+Pleasure Point,24.26,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10509
+Plumpton,24.1,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10510
+Point Piper,24.27,1012,51,22.92,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10511
+Port Botany,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10512
+Port Hacking,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10513
+Potts Hill,24.26,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10514
+Potts Point,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10515
+Prairiewood,24.1,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10516
+Prestons,24.1,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10517
+Prospect,24.1,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10518
+Punchbowl,24.26,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10519
+Putney,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10520
+Pymble,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10521
+Pyrmont,24.15,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10522
+Quakers Hill,24.1,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10523
+Queens Park,24.27,1012,51,22.92,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10524
+Queenscliff,24.27,1012,51,22.92,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10525
+Raby,24.18,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10526
+Ramsgate,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10527
+Ramsgate Beach,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10528
+Randwick,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10529
+Redfern,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10530
+Regents Park,24.26,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10531
+Regentville,24.1,1012,51,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10532
+Revesby,24.26,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10533
+Revesby Heights,24.26,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10534
+Rhodes,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10535
+Richmond,24.1,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10536
+Riverstone,24.1,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10538
+Riverview,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10539
+Riverwood,24.26,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10540
+Rockdale,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10541
+Rodd Point,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10542
+Rooty Hill,24.1,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10544
+Ropes Crossing,24.1,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10545
+Rose Bay,24.27,1012,51,22.92,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10546
+Rosebery,13.95,1013,46,15.02,Clouds,11.96,Rain,15.2,Clouds,13.23,Clouds,9.24,Rain,10547
+Rosehill,24.11,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10548
+Roselands,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10549
+Rosemeadow,24.2,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10550
+Roseville,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10551
+Roseville Chase,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10552
+Rossmore,24.2,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10553
+Rouse Hill,24.12,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10554
+Rozelle,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10556
+Ruse,24.2,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10557
+Rushcutters Bay,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10558
+Russell Lea,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10559
+Rydalmere,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10560
+Ryde,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10561
+Sackville,24.12,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10562
+Sackville North,24.12,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10563
+Sadleir,24.12,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10564
+Sandringham,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10565
+Sandy Point,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10566
+Sans Souci,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10567
+Scheyville,24.12,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10568
+Schofields,24.12,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10569
+Scotland Island,24.27,1012,51,23.36,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10570
+Seaforth,28.46,1015,58,29.33,Clear,29.1,Clear,28.84,Rain,28.7,Clear,28.84,Clouds,10571
+Sefton,24.13,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10572
+Seven Hills,28.9,1018,39,30.17,Clear,28.5,Clear,28.11,Clear,27.75,Clear,29.19,Clear,10573
+Shalvey,24.24,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10574
+Shanes Park,24.24,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10575
+Silverwater,23.73,1012,69,23.58,Clouds,27.03,Clouds,20.63,Clouds,31.13,Clouds,19.04,Rain,10576
+Singletons Mill,24.23,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10577
+Smeaton Grange,24.32,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10578
+Smithfield,24.24,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10579
+South Coogee,24.29,1012,51,22.92,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10580
+South Granville,24.24,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10581
+South Hurstville,24.41,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10582
+South Maroota,24.24,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10583
+South Penrith,24.24,1012,51,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10584
+South Turramurra,24.41,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10585
+South Wentworthville,24.24,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10586
+South Windsor,24.24,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10587
+Spring Farm,24.32,1013,82,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10588
+St Andrews,17.51,1016,48,22.42,Clear,20.94,Clouds,23.89,Clear,27.25,Clear,13.42,Rain,10589
+St Clair,24.24,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10590
+St Helens Park,24.32,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10591
+St Ives,24.42,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10592
+St Ives Chase,24.41,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10593
+St Johns Park,24.24,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10594
+St Leonards,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10595
+St Marys,13.71,1013,57,18.5,Clouds,17.53,Rain,20.87,Clouds,23.28,Clouds,10.82,Rain,10596
+St Peters,24.41,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10597
+Stanhope Gardens,24.24,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10598
+Stanmore,24.41,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10599
+Strathfield,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10600
+Strathfield South,24.41,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10601
+Summer Hill,29.22,1022,33,31.8,Clouds,29.97,Clouds,27.84,Clouds,30.24,Clouds,24.64,Clouds,10602
+Surry Hills,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10603
+Sutherland,24.41,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10604
+Sydenham,17.3,1016,48,21.0,Clear,23.09,Clouds,25.37,Clear,29.21,Clouds,16.17,Clouds,10605
+Sydney,24.15,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10606
+Sydney Olympic Park,24.41,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10607
+Sylvania,24.41,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10608
+Sylvania Waters,24.41,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10609
+Tamarama,24.42,1012,51,22.92,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10610
+Taren Point,24.41,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10611
+Telopea,24.24,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10612
+Tempe,24.41,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10613
+Tennyson,28.9,1018,39,30.17,Clear,28.5,Clear,28.11,Clear,27.75,Clear,29.19,Clear,10614
+Tennyson Point,24.41,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10615
+Terrey Hills,24.4,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10616
+The Ponds,24.12,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10617
+The Rocks,23.97,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10618
+The Slopes,24.24,1012,51,32.84,Clouds,28.69,Clouds,23.72,Clouds,29.8,Clouds,26.12,Clouds,10619
+Thornleigh,24.41,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10620
+Toongabbie,24.11,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10621
+Tregear,24.12,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10622
+Turramurra,24.41,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10623
+Turrella,24.41,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10624
+Ultimo,24.29,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10625
+Varroville,24.32,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10626
+Vaucluse,24.42,1012,51,22.92,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10627
+Villawood,24.24,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10628
+Vineyard,24.24,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10629
+Voyager Point,24.24,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10630
+Wahroonga,24.41,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10631
+Waitara,24.41,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10632
+Wakeley,24.24,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10633
+Wallacia,24.32,1012,51,31.78,Clouds,29.82,Clouds,24.14,Clouds,33.09,Clouds,30.16,Clouds,10634
+Wareemba,24.41,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10635
+Warrawee,24.41,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10636
+Warriewood,24.4,1012,51,23.36,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10637
+Warwick Farm,24.24,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10638
+Waterfall,24.5,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10639
+Waterloo,24.42,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10640
+Watsons Bay,24.42,1012,51,22.92,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10641
+Wattle Grove,24.24,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10642
+Waverley,24.42,1012,51,22.92,Clouds,20.38,Clouds,19.61,Clouds,21.84,Clouds,26.91,Clouds,10643
+Waverton,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10644
+Wedderburn,18.92,1016,32,24.65,Clear,24.15,Clouds,25.34,Clear,32.34,Clouds,19.59,Clear,10645
+Wentworth Point,24.41,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10646
+Wentworthville,24.24,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10647
+Werrington,24.24,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10648
+Werrington County,24.24,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10649
+Werrington Downs,24.24,1012,51,32.84,Clouds,28.69,Clouds,23.72,Clouds,29.8,Clouds,26.12,Clouds,10650
+West Hoxton,24.24,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10651
+West Pennant Hills,24.24,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10654
+West Pymble,24.41,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10655
+West Ryde,24.41,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10656
+Westleigh,24.41,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10657
+Westmead,24.24,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10658
+Wetherill Park,24.24,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10659
+Whalan,24.24,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10660
+Whale Beach,24.4,1012,51,23.34,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10661
+Wheeler Heights,24.42,1012,51,23.36,Clear,21.22,Clouds,20.29,Clouds,22.33,Clouds,25.0,Clouds,10662
+Wilberforce,24.24,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10663
+Wiley Park,24.41,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10664
+Willmot,24.24,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10665
+Willoughby,24.42,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10666
+Willoughby East,24.42,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10667
+Windsor,24.24,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10668
+Windsor Downs,24.24,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10669
+Winston Hills,24.24,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10670
+Wisemans Ferry,24.26,1012,51,29.0,Clouds,30.15,Clouds,25.99,Clouds,34.96,Clouds,27.39,Clouds,10671
+Wolli Creek,24.39,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10672
+Wollstonecraft,24.39,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10673
+Woodbine,24.29,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10674
+Woodcroft,24.21,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10675
+Woodpark,24.21,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10676
+Woollahra,24.39,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10677
+Woolloomooloo,24.27,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10678
+Woolooware,24.39,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10679
+Woolwich,24.39,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10680
+Woronora,24.39,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10681
+Woronora Heights,24.39,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10682
+Yagoona,24.21,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10683
+Yarramundi,24.21,1012,51,32.84,Clouds,28.69,Clouds,23.72,Clouds,29.8,Clouds,26.12,Clouds,10684
+Yarrawarrah,24.39,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10685
+Yennora,24.21,1013,82,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10686
+Yowie Bay,24.39,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10687
+Zetland,24.39,1012,51,24.33,Clouds,25.67,Clouds,24.1,Clouds,30.38,Clouds,30.29,Clouds,10688

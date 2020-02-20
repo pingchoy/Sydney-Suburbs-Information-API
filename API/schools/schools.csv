@@ -1,0 +1,1416 @@
+id,name,street,suburb,postcode,type,suburb_id
+10000,Abbotsford Public School,350 Great North Rd,Abbotsford,2046,public,10001
+10001,Annandale Public School,25 Johnston St,Annandale,2038,public,10010
+10002,Annandale North Public School,206 Johnston St,Annandale,2038,public,10010
+10003,St Brendan's Catholic Primary School,30 Collins St,Annandale,2038,private,10010
+10004,Arcadia Public School,140 Arcadia Road,Arcadia,2159,public,10012
+10005,Northholm Grammar School,79 Cobah Rd,Arcadia,2159,private,10012
+10006,Artarmon Public School,McMillan Rd,Artarmon,2064,public,10015
+10007,Ashbury Public School,Trevenar St,Ashbury,2193,public,10016
+10008,Ashfield Public School,Liverpool Rd,Ashfield,2131,public,10018
+10009,Yeo Park Infants School,Victoria St,Ashfield,2131,public,10018
+10010,Ashfield Boys High School,117 Liverpool Rd,Ashfield,2131,public,10018
+10011,Bethlehem College,18 Bland Street,Ashfield,2131,private,10018
+10012,De La Salle College,24 Bland St,Ashfield,2131,private,10018
+10013,St Vincent's Catholic Primary School,30-34 Charlotte Street,Ashfield,2131,private,10018
+10014,Asquith Public School,Dudley St,Asquith,2077,public,10019
+10015,Asquith Girls High School,Stokes Ave,Asquith,2077,public,10019
+10016,Asquith Boys High School,Jersey St,Asquith,2077,public,10019
+10017,St Patrick's Catholic Primary School,1 Royston Parade,Asquith,2077,private,10019
+10018,Auburn North Public School,100 Adderley St,Auburn,2144,public,10020
+10019,Auburn West Public School,Chiswick Rd,Auburn,2144,public,10020
+10020,Auburn Public School,Auburn Rd & Beatrice St,Auburn,2144,public,10020
+10021,Auburn Girls High School,Hunter St & Braemar Ave,Auburn,2144,public,10020
+10022,St John's Catholic Primary School,77 Queen Street,Auburn,2144,private,10020
+10023,Trinity Catholic College,13 Park Road,Auburn,2144,private,10020
+10024,Al Faisal College,149 Auburn Road,Auburn,2144,private,10020
+10025,Sydney Adventist School - Auburn,3 Macquarie Road,Auburn,2144,private,10020
+10026,Alpha Omega Senior College,Level 4  1-5 Harrow Road,Auburn,2144,private,10020
+10027,Amity College,26-28 Kerr Parade,Auburn,2144,private,10020
+10028,Austral Public School,219 Edmondson Avenue,Austral,2179,public,10021
+10029,Unity Grammar College,70 Fourth Avenue,Austral,2179,private,10021
+10030,St Anthony of Padua Catholic School,Eleventh Avenue,Austral,2179,private,10021
+10031,Al-Faisal College - Liverpool,83-87 Gurner Avenue,Austral,2179,private,10021
+10032,Seaforth Public School,37 Kempbridge Avenue,Seaforth,2092,public,10571
+10033,Banksmeadow Public School,Trevelyan & Wiggins Sts,Botany,2019,public,10080
+10034,Botany Public School,1076 Botany Rd,Botany,2019,public,10080
+10035,Pagewood Public School,Page St,Botany,2019,public,10080
+10036,John Brotchie Nursery School,1361 Botany Rd,Botany,2019,public,10080
+10037,St Bernard's Catholic Primary School,Ramsgate Street,Botany,2019,private,10080
+10038,Greenacre Public School,Waterloo Rd,Greenacre,2190,public,10275
+10039,Chullora Public School,Norfolk & Waterloo Rds,Greenacre,2190,public,10275
+10040,Banksia Road Public School,65 Banksia Rd,Greenacre,2190,public,10275
+10041,Mount Lewis Infants School,Noble Ave,Greenacre,2190,public,10275
+10042,St John Vianney Catholic Primary School,78 Tempe Street,Greenacre,2190,private,10275
+10043,Greenacre Baptist Christian Community School,36-40 Shellcote Road,Greenacre,2190,private,10275
+10044,Malek Fahd Islamic School,405 Waterloo Road,Greenacre,2190,private,10275
+10045,Al Noori Muslim School,75 Greenacre Rd,Greenacre,2190,private,10275
+10046,Holy Saviour School,80 Waterloo Road,Greenacre,2190,private,10275
+10047,Al Sadiq College,114 Waterloo Road,Greenacre,2190,private,10275
+10048,Al Noori Muslim School,93 Greenacre Road,Greenacre,2190,private,10275
+10049,Bankstown North Public School,322 Hume Hwy,Bankstown,2200,public,10031
+10050,Wattawa Heights Public School,The Avenue,Bankstown,2200,public,10031
+10051,Bankstown West Public School,William St,Bankstown,2200,public,10031
+10052,Bankstown South Infants School,Stacey St,Bankstown,2200,public,10031
+10053,Bankstown Hospital School,Paediatric Unit Gallipoli St,Bankstown,2200,public,10031
+10054,Bankstown Public School,Restwell St,Bankstown,2200,public,10031
+10055,Bankstown Girls High School,Mona St,Bankstown,2200,public,10031
+10056,Bankstown Senior College,Antwerp St,Bankstown,2200,public,10031
+10057,La Salle Catholic College,544 Chapel Rd,Bankstown,2200,private,10031
+10058,St Brendan's Catholic Primary School,18 Cambridge Avenue,Bankstown,2200,private,10031
+10059,St Felix's Catholic Primary School,552 Chapel Road,Bankstown,2200,private,10031
+10060,St Euphemia College,6-12 East Tce,Bankstown,2200,private,10031
+10061,Al Amanah College,2-4 Winspear Avenue,Bankstown,2200,private,10031
+10062,Bass Hill Public School,611 Hume Hwy,Bass Hill,2197,public,10038
+10063,George Bass School,106 Johnston Road,Bass Hill,2197,public,10038
+10064,Bass High School,10 Arundle Rd,Bass Hill,2197,public,10038
+10065,Beecroft Public School,98 Beecroft Rd,Beecroft,2119,public,10044
+10066,Cheltenham Girls High School,Beecroft Rd & The Promenade,Beecroft,2119,public,10044
+10067,Arden Anglican School,39-43 Wongala Crescent,Beecroft,2119,private,10044
+10068,Bellevue Hill Public School,Victoria Rd,Bellevue Hill,2023,public,10047
+10069,Cranbrook School,5 Victoria Road,Bellevue Hill,2023,private,10047
+10070,The Scots College,Victoria Road,Bellevue Hill,2023,private,10047
+10071,The Scots College,Mansion Rd,Bellevue Hill,2023,private,10047
+10072,Belmore North Public School,Burwood Rd,Belmore,2192,public,10048
+10073,Belmore South Public School,Nelson Ave & Canterbury Rd,Belmore,2192,public,10048
+10074,Belmore Boys High School,Burwood Rd,Belmore,2192,public,10048
+10075,St Joseph's Catholic Primary School,8 Wilson Ave,Belmore,2192,private,10048
+10076,All Saints Greek Orthodox Grammar School,Cnr Isabel and Cecilia Streets,Belmore,2192,private,10048
+10077,Berala Public School,Harrow Rd,Berala,2141,public,10050
+10078,Berowra Public School,Hillcrest Rd,Berowra,2081,public,10052
+10079,Berowra Christian Community School,Cnr King St & Berowra Waters Rd,Berowra,2081,private,10052
+10080,Beverly Hills Public School,Stoney Ck & King Georges Rds,Beverly Hills,2209,public,10058
+10081,Beverly Hills North Public School,Shorter Ave & King Georges Rd,Beverly Hills,2209,public,10058
+10082,Beverly Hills Girls High School,Broadarrow & King Georges Rds,Beverly Hills,2209,public,10058
+10083,Regina Coeli Catholic Primary School,2 Tarrilli Street,Beverly Hills,2209,private,10058
+10084,Birchgrove Public School,Birchgrove Rd,Balmain,2041,public,10026
+10085,Balmain Public School,1 Eaton Street,Balmain,2041,public,10026
+10086,Inner Sydney Montessori School,44 Smith Street,Balmain,2041,private,10026
+10087,Fr John Therry Catholic Primary School,2 Eaton Street,Balmain,2041,private,10026
+10088,Blakehurst Public School,Dewrang St,Blakehurst,2221,public,10071
+10089,Bald Face Public School,Stuart St,Blakehurst,2221,public,10071
+10090,Blakehurst High School,270A Woniora Rd,Blakehurst,2221,public,10071
+10091,Mater Dei Catholic Primary School,29 Heath Road,Blakehurst,2221,private,10071
+10092,Blaxcell Street Public School,352 Blaxcell Street,Granville,2142,public,10270
+10093,Granville Public School,Lena St,Granville,2142,public,10270
+10094,Granville East Public School,210 The Trongate,Granville,2142,public,10270
+10095,Granville Boys High School,14 Mary St,Granville,2142,public,10270
+10096,Holy Trinity Primary School,Grimwood Street,Granville,2142,private,10270
+10097,Delany College,Grimwood Street,Granville,2142,private,10270
+10098,Bondi Beach Public School,Campbell Pde,Bondi Beach,2026,public,10074
+10099,Wairoa School,Brighton Blvd,Bondi Beach,2026,public,10074
+10100,Galilee Catholic Primary School,60B Blair Street,Bondi Beach,2026,private,10074
+10101,Boronia Park Public School,113 Pittwater Rd,Hunters Hill,2110,public,10310
+10102,Hunters Hill Public School,17 Alexandra St,Hunters Hill,2110,public,10310
+10103,Hunters Hill High School,Reiby Rd,Hunters Hill,2110,public,10310
+10104,St Joseph's College,Mark Street,Hunters Hill,2110,private,10310
+10105,Villa Maria Catholic Primary School,Mark Street,Hunters Hill,2110,private,10310
+10106,Bossley Park Public School,Marconi Rd,Bossley Park,2176,public,10079
+10107,Prairievale Public School,Prairievale & Mimosa Rds,Bossley Park,2176,public,10079
+10108,Bossley Park High School,Prairievale Rd,Bossley Park,2176,public,10079
+10109,Mary Immaculate Catholic Primary School,110 Mimosa Road,Bossley Park,2176,private,10079
+10110,Brighton-Le-Sands Public School,35 Crawford Road,Brighton-Le-Sands,2216,public,10085
+10111,Cairnsfoot School,58A Francis Avenue,Brighton-Le-Sands,2216,public,10085
+10112,St Thomas More's Catholic School,Francis Avenue,Brighton-Le-Sands,2216,private,10085
+10113,Bringelly Public School,1205 The Northern Road,Bringelly,2556,public,10086
+10114,Bronte Public School,Hewlett St,Bronte,2024,public,10087
+10115,Brooklyn Public School,106 Brooklyn Rd,Brooklyn,2083,public,10088
+10116,Brookvale Public School,Old Pittwater Rd,Brookvale,2100,public,10089
+10117,St Augustine's College,Alfred Road,Brookvale,2100,private,10089
+10118,Burnside Public School,1 Masons Drive,North Parramatta,2151,public,10463
+10119,Parramatta North Public School,Albert St,North Parramatta,2151,public,10463
+10120,St Monica's Primary School,10 Daking Street,North Parramatta,2151,private,10463
+10121,Tara Anglican School for Girls,Masons Drive,North Parramatta,2151,private,10463
+10122,The King's School,87-129 Pennant Hills Road,North Parramatta,2151,private,10463
+10123,Redeemer Baptist School,2-12 Masons Drive,North Parramatta,2151,private,10463
+10124,Burwood Public School,1-3 Conder Street,Burwood,2134,public,10093
+10125,Southern Cross Catholic Vocational College,17 Comer Street,Burwood,2134,private,10093
+10126,MLC School,Rowley Street,Burwood,2134,private,10093
+10127,Cabramatta Public School,Levuka St,Cabramatta,2166,public,10097
+10128,Cabramatta West Public School,Broad St,Cabramatta,2166,public,10097
+10129,Harrington Street Public School,13-25 Harrington Street,Cabramatta,2166,public,10097
+10130,Lansvale East Public School,Riverside Rd,Cabramatta,2166,public,10097
+10131,Cabramatta High School,Aladore Ave,Cabramatta,2166,public,10097
+10132,Sacred Heart Catholic School,Gilmore Street,Cabramatta,2166,private,10097
+10133,Camden Public School,John St,Camden,2570,public,10102
+10134,Cawdor Public School,865 Cawdor Rd,Camden,2570,public,10102
+10135,Mount Hunter Public School,165 Burragorang Rd,Camden,2570,public,10102
+10136,Camden South Public School,Hume Hwy,Camden,2570,public,10102
+10137,Mawarra Public School,Macarthur Rd,Camden,2570,public,10102
+10138,Camden High School,300 Cawdor Rd,Camden,2570,public,10102
+10139,St Paul's Catholic Primary School,20 Mitchell Street,Camden,2570,private,10102
+10140,Mater Dei School,229 Macquarie Grove Road,Camden,2570,private,10102
+10141,Camdenville Public School,Laura St,Newtown,2042,public,10454
+10142,Newtown North Public School,Carillon Ave,Newtown,2042,public,10454
+10143,Australia Street Infants School,Australia St,Newtown,2042,public,10454
+10144,Newtown Public School,Norfolk St,Newtown,2042,public,10454
+10145,Newtown High School of Performing Arts,King St,Newtown,2042,public,10454
+10146,The Athena School,28 Oxford Street,Newtown,2042,private,10454
+10147,Cammeray Public School,Palmer St,Cammeray,2062,public,10105
+10148,Anzac Park Public School,2 Anzac Avenue,Cammeray,2062,public,10105
+10149,Campbelltown Public School,Lithgow St,Campbelltown,2560,public,10106
+10150,Kentlyn Public School,Georges River Rd,Campbelltown,2560,public,10106
+10151,Campbelltown North Public School,Thomas St & Rudd Rd,Campbelltown,2560,public,10106
+10152,Campbelltown East Public School,Waminda Ave,Campbelltown,2560,public,10106
+10153,Briar Road Public School,Briar Rd,Campbelltown,2560,public,10106
+10154,Dorchester School,Briar Rd,Campbelltown,2560,public,10106
+10155,Beverley Park School,Beverley Rd,Campbelltown,2560,public,10106
+10156,Lomandra School,Beverley Rd,Campbelltown,2560,public,10106
+10157,Campbelltown Performing Arts High School,Beverley Rd,Campbelltown,2560,public,10106
+10158,Airds High School,Briar Rd,Campbelltown,2560,public,10106
+10159,St John the Evangelist Catholic Primary School,Lindesay Street,Campbelltown,2560,private,10106
+10160,St Patrick's College,4 St Johns Road,Campbelltown,2560,private,10106
+10161,St Thomas More Catholic Primary School,6 St Johns Road,Campbelltown,2560,private,10106
+10162,St Peter's Anglican Primary School,Howe Street,Campbelltown,2560,private,10106
+10163,Broughton Anglican College,Menangle Road,Campbelltown,2560,private,10106
+10164,Campsie Public School,Evaline St,Campsie,2194,public,10108
+10165,Harcourt Public School,First Ave,Campsie,2194,public,10108
+10166,Wangee Park School,12 Second Avenue,Campsie,2194,public,10108
+10167,St Mel's Catholic Primary School,14 Duke Street,Campsie,2194,private,10108
+10168,Canley Vale Public School,Canley Vale Rd,Canley Vale,2166,public,10111
+10169,Lansvale Public School,Chancery St,Canley Vale,2166,public,10111
+10170,Canley Vale High School,Prospect Rd,Canley Vale,2166,public,10111
+10171,Pal Buddhist School,14 First Avenue,Canley Vale,2166,private,10111
+10172,Canterbury Public School,Church St,Canterbury,2193,public,10113
+10173,Canterbury South Public School,High St,Canterbury,2193,public,10113
+10174,Canterbury Boys High School,Holden St,Canterbury,2193,public,10113
+10175,Canterbury Girls High School,Church St,Canterbury,2193,public,10113
+10176,Caringbah Public School,Port Hacking Rd,Caringbah,2229,public,10114
+10177,Caringbah North Public School,125 Cawarra Rd,Caringbah,2229,public,10114
+10178,Laguna Street Public School,204 Caringbah Road,Caringbah,2229,public,10114
+10179,Sutherland Hospital School,Child Adolescent Unit Level 3,Caringbah,2229,public,10114
+10180,Caringbah High School,85 Willarong Rd,Caringbah,2229,public,10114
+10181,Endeavour Sports High School,Taren Pt Rd & The Boulevarde,Caringbah,2229,public,10114
+10182,"De La Salle Catholic College, Caringbah",389 Port Hacking Road,Caringbah,2229,private,10114
+10183,Our Lady of Fatima Catholic Primary School,389 Port Hacking Road,Caringbah,2229,private,10114
+10184,Carlton Public School,60 Cameron St,Bexley,2207,public,10059
+10185,Bexley North Public School,116 Kingsland Rd,Bexley,2207,public,10059
+10186,Bexley Public School,Forest Rd,Bexley,2207,public,10059
+10187,Sydney Technical High School,Forest Rd,Bexley,2207,public,10059
+10188,Marist College Kogarah,52 Wolseley St,Bexley,2207,private,10059
+10189,St Gabriel's Catholic School,50-52 Abercorn Street,Bexley,2207,private,10059
+10190,St Mary and St Mina's Coptic Orthodox College,339-377 Forest Road,Bexley,2207,private,10059
+10191,Carlton South Public School,Jubilee Ave,Carlton,2218,public,10117
+10192,Castle Hill Public School,Les Shore Place,Castle Hill,2154,public,10123
+10193,Excelsior Public School,Rondelay Drive,Castle Hill,2154,public,10123
+10194,Samuel Gilbert Public School,Ridgecrop Drive,Castle Hill,2154,public,10123
+10195,Oakhill Drive Public School,Oakhill Drive,Castle Hill,2154,public,10123
+10196,Castle Hill High School,Castle St,Castle Hill,2154,public,10123
+10197,Oakhill College Castle Hill,423-513 Old Northern Road,Castle Hill,2154,private,10123
+10198,St Bernadette's Primary School,357 Old Northern Road,Castle Hill,2154,private,10123
+10199,Hills Adventist College,84 Cecil Avenue,Castle Hill,2154,private,10123
+10200,Gilroy Catholic College,Marie St,Castle Hill,2154,private,10123
+10201,St Gabriel's School for Hearing Impaired Children,190 Old Northern Road,Castle Hill,2154,private,10123
+10202,St Angela's Primary School,40 Harrington Avenue,Castle Hill,2154,private,10123
+10203,Cattai Public School,487 Cattai Rd,Cattai,2756,public,10128
+10204,Chipping Norton Public School,Central Ave,Chipping Norton,2170,public,10140
+10205,Georges River Environmental Education Centre,Central Ave,Chipping Norton,2170,public,10140
+10206,Clemton Park Public School,185 Bexley Rd,Earlwood,2206,public,10206
+10207,Earlwood Public School,Homer St,Earlwood,2206,public,10206
+10208,Undercliffe Public School,Bayview Ave,Earlwood,2206,public,10206
+10209,Our Lady of Lourdes Catholic Primary School,St James Avenue,Earlwood,2206,private,10206
+10210,Clovelly Public School,Arden St,Waverley,2024,public,10643
+10211,Waverley Public School,Bronte Rd,Waverley,2024,public,10643
+10212,St Catherine's School,26 Albion Street,Waverley,2024,private,10643
+10213,St Charles' Primary School,53-63 Carrington Road,Waverley,2024,private,10643
+10214,St Clare's College,41-51 Carrington Road,Waverley,2024,private,10643
+10215,Waverley College,131 Birrell Street,Waverley,2024,private,10643
+10216,Waverley College,44 Henrietta Street,Waverley,2024,private,10643
+10217,Cobbitty Public School,Cobbitty Rd,Cobbitty,2570,public,10153
+10218,Macarthur Anglican School,605 Cobbitty Road,Cobbitty,2570,private,10153
+10219,Aspect Macarthur School,229 Macquarie Grove Road,Cobbitty,2570,private,10153
+10220,Colyton Public School,Nelson St,Mount Druitt,2770,public,10438
+10221,Mount Druitt Public School,51 Belmore Avenue,Mount Druitt,2770,public,10438
+10222,Chifley College Mount Druitt Campus,Stuart St,Mount Druitt,2770,public,10438
+10223,Chifley College Senior Campus,67 North Parade,Mount Druitt,2770,public,10438
+10224,Bethel Christian School,104-112 Mount Druitt Road,Mount Druitt,2770,private,10438
+10225,Australian Islamic College of Sydney,33 Headcorn Street,Mount Druitt,2770,private,10438
+10226,St Bishoy Coptic Orthodox College,53-59 Methven Street,Mount Druitt,2770,private,10438
+10227,Loyola Senior High School,91 North Parade,Mount Druitt,2770,private,10438
+10228,Comleroy Road Public School,McMahons Rd,Kurrajong,2758,public,10349
+10229,Kurrajong Public School,1111 Grose Vale Rd,Kurrajong,2758,public,10349
+10230,Hawkesbury Independent School,316 Comleroy Road,Kurrajong,2758,private,10349
+10231,Como Public School,Genoa St,Como,2226,public,10158
+10232,Como West Public School,Wolger & Warraba Sts,Como,2226,public,10158
+10233,St Joseph's Catholic Primary School Como - Oyster Bay,Oyster Bay Road,Como,2226,private,10158
+10234,Concord Public School,Burwood Rd,Concord,2137,public,10159
+10235,Mortlake Public School,Brays Rd,Concord,2137,public,10159
+10236,Concord High School,Stanley St,Concord,2137,public,10159
+10237,St Mary's Catholic Primary School,2 Broughton Street,Concord,2137,private,10159
+10238,Concord West Public School,Concord Rd,Concord West,2138,public,10160
+10239,Victoria Avenue Public School,64-66 Victoria Avenue,Concord West,2138,public,10160
+10240,Rivendell School,Thomas Walker Est  Hospital Rd,Concord West,2138,public,10160
+10241,St Ambrose Catholic Primary School,Stuart Street,Concord West,2138,private,10160
+10242,Connells Point Public School,Riverview Ave,South Hurstville,2221,public,10582
+10243,Coogee Public School,Byron St & Coogee Bay Rd,Coogee,2034,public,10164
+10244,St Brigid's Catholic Primary School,160 Coogee Bay Rd,Coogee,2034,private,10164
+10245,Cowan Public School,Chandler Ave,Cowan,2081,public,10167
+10246,Cronulla Public School,18-24 Burraneer Bay Rd,Cronulla,2230,public,10172
+10247,Cronulla South Public School,Ewos Pde,Cronulla,2230,public,10172
+10248,Woolooware Public School,Wills Rd,Cronulla,2230,public,10172
+10249,Burraneer Bay Public School,161-165 Burraneer Bay Rd,Cronulla,2230,public,10172
+10250,Cronulla High School,Captain Cook Drive,Cronulla,2230,public,10172
+10251,Our Lady of Mercy Catholic College Burraneer,62-66 Dominic Street,Cronulla,2230,private,10172
+10252,St Aloysius Catholic Primary School,Giddings Avenue,Cronulla,2230,private,10172
+10253,De La Salle Catholic College  Cronulla,2 Cross Street,Cronulla,2230,private,10172
+10254,Darlington Public School,Golden Grove St,Chippendale,2008,public,10139
+10255,Dee Why Public School,Regent St,Dee Why,2099,public,10188
+10256,Fisher Road School,115 Fisher Rd,Dee Why,2099,public,10188
+10257,St Kevin's Catholic Primary School,57 - 59 Oaks Avenue,Dee Why,2099,private,10188
+10258,St Luke's Grammar School,210 Headland Road,Dee Why,2099,private,10188
+10259,Doonside Public School,Cnr Kildare Rd & School Pde,Doonside,2767,public,10196
+10260,Crawford Public School,Power St,Doonside,2767,public,10196
+10261,Doonside High School,Power St,Doonside,2767,public,10196
+10262,Mountain View Adventist College,41 Doonside Road,Doonside,2767,private,10196
+10263,St John Vianney's Primary School,17 Cameron Street,Doonside,2767,private,10196
+10264,Double Bay Public School,William St,Double Bay,2028,public,10197
+10265,Drummoyne Public School,Rawson Ave,Drummoyne,2047,public,10199
+10266,St Mark's Catholic Primary School,31 Tranmere St,Drummoyne,2047,private,10199
+10267,Dural Public School,622 Old Northern Rd,Dural,2158,public,10204
+10268,Pacific Hills Christian School,9-11 Quarry Road,Dural,2158,private,10204
+10269,Warrah Village Rudolf Steiner School for Curative Education,20-24 Harris Road,Dural,2158,private,10204
+10270,Redfield College,855 Old Northern Rd,Dural,2158,private,10204
+10271,New Hope School,9-15 Quarry Road,Dural,2158,private,10204
+10272,Eastern Creek Public School,200 Rooty Hill Road South,Eastern Creek,2766,public,10213
+10273,Panania Public School,21 Lawler Street,Panania,2213,public,10494
+10274,East Hills Public School,Lucas Rd,Panania,2213,public,10494
+10275,Panania North Public School,Bransgrove Rd,Panania,2213,public,10494
+10276,Tower Street Public School,74 Tower St,Panania,2213,public,10494
+10277,East Hills Girls Technology High School,Lucas Rd,Panania,2213,public,10494
+10278,East Hills Boys High School,Lucas Rd,Panania,2213,public,10494
+10279,St Christopher's Catholic Primary School,237 Tower Street,Panania,2213,private,10494
+10280,Ebenezer Public School,531 Sackville Rd,Ebenezer,2756,public,10217
+10281,Emu Plains Public School,Emerald St,Emu Plains,2750,public,10229
+10282,Emu Heights Public School,Wedmore Rd,Emu Plains,2750,public,10229
+10283,Leonay Public School,Buring Ave,Emu Plains,2750,public,10229
+10284,Nepean Creative and Performing Arts High School,Great Western Hwy,Emu Plains,2750,public,10229
+10285,Our Lady of the Way Primary School,17 Troy Street,Emu Plains,2750,private,10229
+10286,McCarthy Catholic College (Emu Plains),75 Mackellar Street,Emu Plains,2750,private,10229
+10287,Enfield Public School,Beaumaris St,Enfield,2136,public,10230
+10288,Strathfield South High School,Hedges Ave,Enfield,2136,public,10230
+10289,St Joseph's Catholic Primary School,126 Liverpool Road,Enfield,2136,private,10230
+10290,Engadine Public School,Waratah Rd,Engadine,2233,public,10231
+10291,Engadine West Public School,Woronora Rd,Engadine,2233,public,10231
+10292,Yarrawarrah Public School,Old Bush Rd,Engadine,2233,public,10231
+10293,Marton Public School,107 Kingswood Rd,Engadine,2233,public,10231
+10294,Engadine High School,Porter Rd,Engadine,2233,public,10231
+10295,St John Bosco Catholic Primary School,Banksia Avenue,Engadine,2233,private,10231
+10296,St John Bosco College,Banksia Avenue,Engadine,2233,private,10231
+10297,Southern Cross Baptist Church Christian School,104 Anzac Ave,Engadine,2233,private,10231
+10298,"Dunlea Centre, Australia's Original Boys' Town",35A Waratah Road,Engadine,2233,private,10231
+10299,Epping Public School,2-16 Norfolk Road,Epping,2121,public,10234
+10300,Epping West Public School,96 Carlingford Rd,Epping,2121,public,10234
+10301,Epping Heights Public School,Kent St,Epping,2121,public,10234
+10302,Karonga School,Karonga Close (via Dent St),Epping,2121,public,10234
+10303,Our Lady Help of Christians Catholic Primary School,8-14 Cambridge Street,Epping,2121,private,10234
+10304,Arden Anglican School,50 Oxford Street,Epping,2121,private,10234
+10305,Ermington Public School,Winbourne St,West Ryde,2114,public,10656
+10306,West Ryde Public School,Endeavour St,West Ryde,2114,public,10656
+10307,Melrose Park Public School,110 Wharf Rd,West Ryde,2114,public,10656
+10308,Marsden High School,22a Winbourne St,West Ryde,2114,public,10656
+10309,Fairfield Public School,68-82 Smart St,Fairfield,2165,public,10240
+10310,Fairfield Heights Public School,Station St,Fairfield,2165,public,10240
+10311,Fairvale Public School,Wolseley St,Fairfield,2165,public,10240
+10312,Fairfield High School,The Horsley Drive,Fairfield,2165,public,10240
+10313,Our Lady of the Rosary Catholic Primary School,20 Vine Street,Fairfield,2165,private,10240
+10314,Patrician Brothers' College Fairfield,268 The Horsley Drive,Fairfield,2165,private,10240
+10315,Warakirri College,Level 1  1-3 Hamilton Road,Fairfield,2165,private,10240
+10316,Fairfield West Public School,Palmerston Rd,Fairfield West,2165,public,10243
+10317,Westfields Sports High School,406A Hamilton Road,Fairfield West,2165,public,10243
+10318,Fairvale High School,Thorney Rd & Maude St,Fairfield West,2165,public,10243
+10319,Five Dock Public School,Henry St,Five Dock,2046,public,10246
+10320,All Hallows Catholic Primary School,1 Halley St,Five Dock,2046,private,10246
+10321,Domremy Catholic College,121 First Avenue,Five Dock,2046,private,10246
+10322,Rosebank College,1A Harris Road,Five Dock,2046,private,10246
+10323,Forest Lodge Public School,Bridge Rd,Forest Lodge,2037,public,10249
+10324,Fort Street Public School,Observatory Hill,Sydney,2000,public,10606
+10325,Conservatorium High School, Macquarie Street,Sydney,2000,public,10606
+10326,St Mary's Cathedral College,St Mary'S Road,Sydney,2000,private,10606
+10327,Macquarie Grammar School,225 Clarence Street Levels 4 and 8,Sydney,2000,private,10606
+10328,St Andrew's Cathedral Gawura School,Sydney Square,Sydney,2000,private,10606
+10329,St Andrew's Cathedral School,St Andrew's House 474 Kent Street,Sydney,2000,private,10606
+10330,Freemans Reach Public School,395 Kurmond Road,Freemans Reach,2756,public,10251
+10331,Hawkesbury High School,1 Hibberts Lane,Freemans Reach,2756,public,10251
+10332,Frenchs Forest Public School,Ann St,Frenchs Forest,2086,public,10252
+10333,Mimosa Public School,Blackbutts Rd & Mimosa St,Frenchs Forest,2086,public,10252
+10334,Arranounbai School,5 Aquatic Drive,Frenchs Forest,2086,public,10252
+10335,The Forest High School,135 Frenchs Forest Rd,Frenchs Forest,2086,public,10252
+10336,Davidson High School,Mimosa St,Frenchs Forest,2086,public,10252
+10337,Galston Public School,School Rd,Galston,2159,public,10254
+10338,Galston High School,403 Galston Rd,Galston,2159,public,10254
+10339,Girraween Public School,Bando Rd,Girraween,2145,public,10257
+10340,Girraween High School,110 Gilba Rd,Girraween,2145,public,10257
+10341,St Anthony's Primary School,216 Targo Rd,Girraween,2145,private,10257
+10342,Gladesville Public School,Victoria Rd,Gladesville,2111,public,10258
+10343,Riverside Girls High School,Huntleys Point Rd,Gladesville,2111,public,10258
+10344,Our Lady Queen of Peace Catholic Primary School,Cnr Westminster Rd And Oxford St,Gladesville,2111,private,10258
+10345,Giant Steps Sydney,23 Punt Road,Gladesville,2111,private,10258
+10346,Glenfield Public School,Railway Pde,Glenfield,2167,public,10263
+10347,Glenwood Public School,Belmont Rd,Glenfield,2167,public,10263
+10348,Glenfield Park School,Roy Watts Rd,Glenfield,2167,public,10263
+10349,Campbell House School,Roy Watts Rd,Glenfield,2167,public,10263
+10350,Ajuga School,Quarter Sessions Road,Glenfield,2167,public,10263
+10351,Hurlstone Agricultural High School,Roy Watts Rd,Glenfield,2167,public,10263
+10352,Glenhaven Public School,Glenhaven Rd,Glenhaven,2156,public,10264
+10353,Lorien Novalis School for Rudolf Steiner Education,456 Old Northern Road,Glenhaven,2156,private,10264
+10354,Glenmore Road Public School,Glenmore Rd,Paddington,2021,public,10489
+10355,Paddington Public School,Oxford St,Paddington,2021,public,10489
+10356,St Francis of Assisi Regional Catholic Primary School,64 Gordon St,Paddington,2021,private,10489
+10357,Sydney Grammar School  Edgecliff Preparatory School,7 Alma Street,Paddington,2021,private,10489
+10358,The Waranara Centre,461-463 Oxford St,Paddington,2021,private,10489
+10359,Glenorie Public School,Old Northern Rd,Glenorie,2157,public,10266
+10360,Hillside Public School,Cattai Ridge Rd,Glenorie,2157,public,10266
+10361,Glossodia Public School,Golden Valley Drive,Glossodia,2756,public,10268
+10362,Granville South Public School,Woodville Rd,Guildford,2161,public,10284
+10363,Guildford Public School,Apia St,Guildford,2161,public,10284
+10364,Old Guildford Public School,Woodville Rd,Guildford,2161,public,10284
+10365,Granville South Creative and Performing Arts High School,53 Rowley Road,Guildford,2161,public,10284
+10366,St Patrick's Primary School,34 Calliope Street,Guildford,2161,private,10284
+10367,Green Valley Public School,Green Valley Rd,Green Valley,2168,public,10274
+10368,Busby West Public School,Starling St,Green Valley,2168,public,10274
+10369,James Busby High School,Brolga Cresc,Green Valley,2168,public,10274
+10370,Green Valley Islamic College,264 Wilson Road,Green Valley,2168,private,10274
+10371,Greenwich Public School,32 Kingslangley Rd,Greenwich,2065,public,10279
+10372,Greystanes Public School,Merrylands Rd,Greystanes,2145,public,10281
+10373,Ringrose Public School,Ringrose Ave,Greystanes,2145,public,10281
+10374,Beresford Road Public School,Beresford Rd,Greystanes,2145,public,10281
+10375,Widemere Public School,Nemesia St,Greystanes,2145,public,10281
+10376,Greystanes High School,Beresford Rd,Greystanes,2145,public,10281
+10377,Holroyd High School,7 Cumberland Rd,Greystanes,2145,public,10281
+10378,Our Lady Queen of Peace Primary School,Braeside Road,Greystanes,2145,private,10281
+10379,St Paul's Catholic College,198 Old Prospect Road,Greystanes,2145,private,10281
+10380,Gymea Bay Public School,205A Gymea Bay Road,Gymea Bay,2227,public,10287
+10381,Haberfield Public School,Denman Ave,Haberfield,2045,public,10288
+10382,Dobroyd Point Public School,89 Waratah Street,Haberfield,2045,public,10288
+10383,St Joan Of Arc Catholic Primary School,88 Dalhousie St,Haberfield,2045,private,10288
+10384,Hammondville Public School,Walder Rd,Hammondville,2170,public,10289
+10385,Harbord Public School,Wyadra Avenue,Freshwater,2096,public,10253
+10386,Northern Beaches Secondary College Freshwater Senior Campus,153 Harbord Road,Freshwater,2096,public,10253
+10387,St John The Baptist Catholic Primary School,7 Johnson St,Freshwater,2096,private,10253
+10388,Heathcote Public School,Oliver St,Heathcote,2233,public,10294
+10389,Heathcote East Public School,Mimosa St,Heathcote,2233,public,10294
+10390,Heathcote High School,Wilson Pde,Heathcote,2233,public,10294
+10391,Homebush Public School,Rochester St,Homebush,2140,public,10303
+10392,Homebush Boys High School,Bridge Rd,Homebush,2140,public,10303
+10393,Horsley Park Public School,1759 The Horsley Drive,Horsley Park,2175,public,10308
+10394,Marion Catholic Primary School,1788 The Horsley Drive,Horsley Park,2175,private,10308
+10395,Hoxton Park Public School,99 Pacific Palms Circuit,Hoxton Park,2171,public,10309
+10396,Good Shepherd Catholic Primary School,21 Twentieth Avenue,Hoxton Park,2171,private,10309
+10397,Malek Fahd Islamic School,210 Pacific Palms Circuit,Hoxton Park,2171,private,10309
+10398,Hurstville Public School,Forest Rd,Hurstville,2220,public,10315
+10399,Hurstville South Public School,Maher St,Hurstville,2220,public,10315
+10400,Woniora Road School,83-85 Woniora Rd,Hurstville,2220,public,10315
+10401,Georges River College Hurstville Boys Campus,Kenwyn St,Hurstville,2220,public,10315
+10402,Danebank School,84-98 Park Rd & 75 Queens Rd,Hurstville,2220,private,10315
+10403,St Mary's Star of the Sea Catholic Primary School,24-26 Croydon Road,Hurstville,2220,private,10315
+10404,St Raphael's Catholic Primary School,82 George Street,Hurstville,2221,private,10315
+10405,Hurstville Adventist School,24 - 30 Wright Street,Hurstville,2220,private,10315
+10406,St George Christian School,55-67 Woids Avenue,Hurstville,2220,private,10315
+10407,Bethany College,Croydon Road,Hurstville,2220,private,10315
+10408,Ingleburn Public School,Oxford Rd,Ingleburn,2565,public,10318
+10409,Sackville Street Public School,22 Sackville St,Ingleburn,2565,public,10318
+10410,Ingleburn High School,Oxford Rd,Ingleburn,2565,public,10318
+10411,Holy Family Catholic Primary School,Oxford Road,Ingleburn,2565,private,10318
+10412,Kegworth Public School,60 Tebbutt St,Leichhardt,2040,public,10364
+10413,Orange Grove Public School,Perry St,Leichhardt,2040,public,10364
+10414,Leichhardt Public School,Marion St,Leichhardt,2040,public,10364
+10415,Sydney Secondary College Leichhardt Campus,Balmain Rd,Leichhardt,2040,public,10364
+10416,St Fiacre's Catholic Primary School,98 Catherine Street,Leichhardt,2040,private,10364
+10417,Kellyville Public School,35A Windsor Road,Kellyville,2155,public,10326
+10418,Sherwood Ridge Public School,Rosebery Rd,Kellyville,2155,public,10326
+10419,Tallowood School,44-68 Redden Dr,Kellyville,2155,public,10326
+10420,Kellyville High School,York Rd,Kellyville,2155,public,10326
+10421,Our Lady of the Rosary Primary School,8 Diana Avenue,Kellyville,2155,private,10326
+10422,William Branwhite Clarke College,1 Morris Grove,Kellyville,2155,private,10326
+10423,Our Lady of the Angels Primary School,1 Wellgate Avenue,Kellyville,2155,private,10326
+10424,Australian International Academy  Kellyville Campus,57-69 Samantha Riley Drive,Kellyville,2155,private,10326
+10425,Hills Adventist College,4 Gum Nut Close,Kellyville,2155,private,10326
+10426,Kensington Public School,77-79 Doncaster Avenue,Kensington,2033,public,10329
+10427,Our Lady of The Rosary Catholic Primary School,Kensington Road,Kensington,2033,private,10329
+10428,Our Lady of the Sacred Heart College,36 Addison Street,Kensington,2033,private,10329
+10429,Kenthurst Public School,111 Kenthurst Road,Kenthurst,2156,public,10330
+10430,The Hills Grammar School,43 Kenthurst Rd,Kenthurst,2156,private,10330
+10431,St Madeleine's Primary School,28 Annangrove Road,Kenthurst,2156,private,10330
+10432,Marian Catholic College,24-28 Annangrove Road,Kenthurst,2156,private,10330
+10433,Kingsgrove Public School,Kingsgrove Rd,Kingsgrove,2208,public,10337
+10434,Kingsgrove North High School,2-10 St Albans Road,Kingsgrove,2208,public,10337
+10435,Kingsgrove High School,Kingsgrove Rd,Kingsgrove,2208,public,10337
+10436,Our Lady of Fatima Catholic Primary School,51 Caroline Street,Kingsgrove,2208,private,10337
+10437,St Ursula's College,69 Caroline St,Kingsgrove,2208,private,10337
+10438,Arkana College,346 Stoney Creek Road,Kingsgrove,2208,private,10337
+10439,Kingswood Public School,Second Ave,Kingswood,2747,public,10338
+10440,Kingswood South Public School,Smith St,Kingswood,2747,public,10338
+10441,Kingswood High School,Bringelly Rd,Kingswood,2747,public,10338
+10442,St Dominic's College,54-74 Gascoigne Street,Kingswood,2747,private,10338
+10443,St Joseph's Primary School,94 Joseph Street,Kingswood,2747,private,10338
+10444,Kogarah Public School,Gladstone St,Kogarah,2217,public,10343
+10445,St George Hospital School,Paediatric Ward Lvl 1 East,Kogarah,2217,public,10343
+10446,St George School,Marshall St,Kogarah,2217,public,10343
+10447,St George Girls High School,Victoria St,Kogarah,2217,public,10343
+10448,Moorefield Girls High School,Princes Hwy,Kogarah,2217,public,10343
+10449,Kogarah High School,Gladstone St,Kogarah,2217,public,10343
+10450,James Cook Boys High School,Princes Hwy,Kogarah,2217,public,10343
+10451,St Patrick's Catholic Primary School,36 Chapel Street,Kogarah,2217,private,10343
+10452,Kurmond Public School,494 Bells Line of Road,Kurmond,2757,public,10346
+10453,Kurnell Public School,Dampier & Torres Sts,Kurnell,2231,public,10347
+10454,Botany Bay Environmental Education Centre,Botany Bay National Park,Kurnell,2231,public,10347
+10455,Kurrajong East Public School,891 East Kurrajong Road,East Kurrajong,2758,public,10210
+10456,Kurrajong North Public School,Stone Terrace,Kurrajong Hills,2758,public,10350
+10457,Lakemba Public School,Alice St,Lakemba,2195,public,10354
+10458,Hampden Park Public School,39-79 Hampden Road,Lakemba,2195,public,10354
+10459,Canterbury Vale School,24 Wangee Rd,Lakemba,2195,public,10354
+10460,St Therese's Catholic Primary School,2A Yerrick Road,Lakemba,2195,private,10354
+10461,Rissalah College,54-72 Hampden Road,Lakemba,2195,private,10354
+10462,Holy Spirit Catholic College,39 Croydon Street,Lakemba,2195,private,10354
+10463,Al Hikma College,291 Haldon Street,Lakemba,2195,private,10354
+10464,Lane Cove Public School,Austin St & Longueville Rd,Lane Cove,2066,public,10356
+10465,Lane Cove West Public School,Avalon Ave,Lane Cove,2066,public,10356
+10466,Mowbray Public School,635 Mowbray Road,Lane Cove,2066,public,10356
+10467,Currambena School,205 Longueville Road,Lane Cove,2066,private,10356
+10468,St Ignatius' College,Tambourine Bay Road,Lane Cove,2066,private,10356
+10469,St Michael's Catholic Primary School,181-187 Longueville Road,Lane Cove,2066,private,10356
+10470,Lansdowne Public School,Cundle Rd & Macquarie St,Lansdowne,2430,public,10359
+10471,La Perouse Public School,Yarra Rd,La Perouse,2036,public,10353
+10472,Lidcombe Public School,Mills Street,Lidcombe,2141,public,10372
+10473,St Joachim's Catholic Primary School,7 Mary Street,Lidcombe,2141,private,10372
+10474,Lindfield Public School,Pacific Hwy,Lindfield,2070,public,10375
+10475,Lindfield Learning Village,100 Eton Road,Lindfield,2070,public,10375
+10476,Cromehurst School,8 Nelson Rd,Lindfield,2070,public,10375
+10477,Holy Family Catholic Primary School,2-4 Highfield Road,Lindfield,2070,private,10375
+10478,Highfields Preparatory & Kindergarten School Limited,18 Highfield Road,Lindfield,2070,private,10375
+10479,Newington College,26 Northcote Rd,Lindfield,2070,private,10375
+10480,Lindfield East Public School,Tryon Rd,East Lindfield,2070,public,10211
+10481,Llandilo Public School,Seventh Avenue,Llandilo,2747,public,10379
+10482,Xavier College,1170- 1172 Ninth Avenue,Llandilo,2747,private,10379
+10483,Londonderry Public School,Londonderry Rd,Londonderry,2753,public,10381
+10484,Luddenham Public School,24 Jamison Street,Luddenham,2745,public,10387
+10485,Holy Family Primary School,Lot 32 Willowdene Ave,Luddenham,2745,private,10387
+10486,Malabar Public School,231-239 Franklin Street,Malabar,2036,public,10394
+10487,Chifley Public School,Mitchell St,Malabar,2036,public,10394
+10488,St Andrew's Catholic Primary School,18 Prince Edward Street,Malabar,2036,private,10394
+10489,Manly West Public School,Griffith St,Balgowlah,2093,public,10024
+10490,Balgowlah Heights Public School,Lewis St,Balgowlah,2093,public,10024
+10491,Northern Beaches Secondary College Balgowlah Boys Campus,Maretimo St,Balgowlah,2093,public,10024
+10492,St Cecilia's Catholic Primary School,59 Seaview Street,Balgowlah,2093,private,10024
+10493,Maraylya Public School,Neich Rd,Maraylya,2765,public,10397
+10494,Longneck Lagoon Environmental Education Centre,Whitmore Rd,Maraylya,2765,public,10397
+10495,Maroota Public School,4540 Old Northern Road,Maroota,2756,public,10399
+10496,Maroubra Bay Public School,Duncan St,Maroubra,2035,public,10400
+10497,Maroubra Junction Public School,Storey St,Maroubra,2035,public,10400
+10498,South Sydney High School,2-36 O'Sullivan Avenue,Maroubra,2035,public,10400
+10499,Champagnat Catholic College,35 Donovan Avenue,Maroubra,2035,private,10400
+10500,Our Lady of The Annunciation Catholic Primary School,31 Donovan Avenue,Maroubra,2035,private,10400
+10501,St Aidan's Catholic Primary School,214 Maroubra Road,Maroubra,2035,private,10400
+10502,Mount Sinai College,6 Runic Lane,Maroubra,2035,private,10400
+10503,St Spyridon College,1130 Anzac Parade,Maroubra,2035,private,10400
+10504,Marsden Park Public School,363 Garfield Road West,Marsden Park,2765,public,10402
+10505,St Luke's Catholic College (Primary),Lot 1104 Cnr Frontier Avenue & Northbourne Drive,Marsden Park,2765,private,10402
+10506,Richard Johnson Anglican School,Clifton Road,Marsden Park,2765,private,10402
+10507,Mascot Public School,King St,Mascot,2020,public,10404
+10508,J J Cahill Memorial High School,Sutherland St,Mascot,2020,public,10404
+10509,St Therese Catholic Primary School,43 Sutherland Street,Mascot,2020,private,10404
+10510,Matraville Public School,310 Bunnerong Rd,Matraville,2036,public,10405
+10511,Matraville Soldiers Settlement Public School,Menin Rd,Matraville,2036,public,10405
+10512,St Agnes' Catholic Primary School,511 Bunnerong Road,Matraville,2036,private,10405
+10513,The Meadows Public School,Fuller St,Seven Hills,2147,public,10573
+10514,Seven Hills North Public School,45 Beethoven St,Seven Hills,2147,public,10573
+10515,Seven Hills Public School,2A Lucas Road,Seven Hills,2147,public,10573
+10516,Seven Hills West Public School,Lucas Rd & Sackville St,Seven Hills,2147,public,10573
+10517,Bert Oldfield Public School,Oldfield Rd,Seven Hills,2147,public,10573
+10518,Vardys Road Public School,Vardys Rd,Seven Hills,2147,public,10573
+10519,William Rose School,Cnr Morris St & Lucas Rd,Seven Hills,2147,public,10573
+10520,Seven Hills High School,Johnson Ave,Seven Hills,2147,public,10573
+10521,The Hills Sports High School,Best Rd,Seven Hills,2147,public,10573
+10522,Our Lady of Lourdes Primary School,7 Grantham Road,Seven Hills,2147,private,10573
+10523,Menai Public School,4R Hall Drive,Menai,2234,public,10412
+10524,Tharawal Public School,Gerald Rd,Menai,2234,public,10412
+10525,Menai High School,40 Gerald Rd,Menai,2234,public,10412
+10526,Holy Family Catholic Primary School,1D Anzac Road,Menai,2234,private,10412
+10527,Aquinas Catholic College,Anzac Road,Menai,2234,private,10412
+10528,Merrylands Public School,Fowler Rd,Merrylands,2160,public,10414
+10529,Hilltop Road Public School,Hilltop Rd,Merrylands,2160,public,10414
+10530,Sherwood Grange Public School,Bruce St,Merrylands,2160,public,10414
+10531,Merrylands East Public School,Myee St,Merrylands,2160,public,10414
+10532,Fowler Road School,Cnr Fowler Rd & Matthew St,Merrylands,2160,public,10414
+10533,Holroyd School,Willara Ave,Merrylands,2160,public,10414
+10534,Merrylands High School,Bristol St,Merrylands,2160,public,10414
+10535,Cerdon College,Sherwood Road,Merrylands,2160,private,10414
+10536,St Margaret Mary's Primary School,7 Chetwynd Road,Merrylands,2160,private,10414
+10537,Key College,74-98 Kenyons Road,Merrylands,2160,private,10414
+10538,Middle Dural Public School,Old Northern Rd,Middle Dural,2158,public,10417
+10539,Middle Harbour Public School,8 Hale Rd,Mosman,2088,public,10435
+10540,Beauty Point Public School,17 Medusa St,Mosman,2088,public,10435
+10541,Mosman Public School,27 Belmont Rd,Mosman,2088,public,10435
+10542,Mosman High School,Military Rd,Mosman,2088,public,10435
+10543,Sacred Heart Catholic Primary School,8 Cardinal St,Mosman,2088,private,10435
+10544,Queenwood School for Girls Ltd,47 Mandolong Rd,Mosman,2088,private,10435
+10545,Mosman Church of England Preparatory School,75 Shadforth Street,Mosman,2088,private,10435
+10546,Queenwood School for Girls Ltd,6 Queen Street,Mosman,2088,private,10435
+10547,Milperra Public School,Pozieres Ave,Milperra,2214,public,10421
+10548,Mount St Joseph Milperra,273 Horsley Road,Milperra,2214,private,10421
+10549,Minto Public School,Pembroke & Redfern Rds,Minto,2566,public,10425
+10550,Campbellfield Public School,Townson Ave,Minto,2566,public,10425
+10551,Sarah Redfern Public School,5 Monaghan Street,Minto,2566,public,10425
+10552,The Grange Public School,8 Benham Road,Minto,2566,public,10425
+10553,Passfield Park School,53 Guernsey Avenue,Minto,2566,public,10425
+10554,Sarah Redfern High School,1 Monaghan Street,Minto,2566,public,10425
+10555,Al-Faisal College - Campbelltown,10 Benham Road,Minto,2566,private,10425
+10556,Aspect Macarthur School,Cnr Stafford Road & Guernsey Avenue,Minto,2566,private,10425
+10557,Miranda Public School,3 Sylva Avenue,Miranda,2228,public,10427
+10558,Miranda North Public School,162B The Boulevarde,Miranda,2228,public,10427
+10559,Port Hacking High School,637 Kingsway,Miranda,2228,public,10427
+10560,Our Lady Star of the Sea Catholic School,44 Kiora Road,Miranda,2228,private,10427
+10561,Mona Vale Public School,Waratah St,Mona Vale,2103,public,10428
+10562,Pittwater High School,Pittwater Rd & Mona St,Mona Vale,2103,public,10428
+10563,Sacred Heart Catholic Primary School,Waratah St,Mona Vale,2103,private,10428
+10564,Mortdale Public School,Colebourne Ave,Mortdale,2223,public,10433
+10565,Penshurst West Public School,Forest Rd & Scott St,Mortdale,2223,public,10433
+10566,Carinya School,Colebourne Ave,Mortdale,2223,public,10433
+10567,Marist Catholic College Penshurst,65 Victoria Avenue,Mortdale,2223,private,10433
+10568,Mount Pritchard Public School,Meadows Rd,Mount Pritchard,2170,public,10441
+10569,Mount Pritchard East Public School,Townview Rd,Mount Pritchard,2170,public,10441
+10570,Les Powell School,108 Townview & Hoff Sts,Mount Pritchard,2170,public,10441
+10571,Mulgoa Public School,1189-1193 Mulgoa Road,Mulgoa,2745,public,10443
+10572,Nepean Christian School,836 Mulgoa Road,Mulgoa,2745,private,10443
+10573,Narrabeen Lakes Public School,1299 Pittwater Rd,Narrabeen,2101,public,10447
+10574,St Joseph's Catholic Primary School,108 Ocean Street,Narrabeen,2101,private,10447
+10575,Neutral Bay Public School,Ben Boyd Rd,Neutral Bay,2089,public,10451
+10576,Cameragal Montessori School,2B  Montpelier Street,Neutral Bay,2089,private,10451
+10577,Newport Public School,Stuart St,Newport,2106,public,10453
+10578,Nicholson Street Public School,Nicholson St,Balmain East,2041,public,10027
+10579,Normanhurst Public School,Normanhurst Rd,Normanhurst,2076,public,10455
+10580,Normanhurst Boys High School,Pennant Hills Rd,Normanhurst,2076,public,10455
+10581,Loreto Normanhurst,91-93 Pennant Hills Road,Normanhurst,2076,private,10455
+10582,Northbridge Public School,Sailors Bay Rd,Northbridge,2063,public,10474
+10583,St Philip Neri Catholic Primary School,67 Baringa Road,Northbridge,2063,private,10474
+10584,Northmead Public School,Moxhams Rd,Northmead,2152,public,10475
+10585,The Hills School,Mary St,Northmead,2152,public,10475
+10586,Northmead Creative and Performing Arts High School,Campbell St,Northmead,2152,public,10475
+10587,North Rocks Public School,359 North Rocks Rd,North Rocks,2151,public,10465
+10588,Muirfield High School,Barclay Rd,North Rocks,2151,public,10465
+10589,Christ the King Primary School,2 Statham Avenue,North Rocks,2151,private,10465
+10590,RIDBC Alice Betteridge School,361-365 North Rocks Road,North Rocks,2151,private,10465
+10591,RIDBC Garfield Barwick School,361-365 North Rocks Road,North Rocks,2151,private,10465
+10592,RIDBC Thomas Pattison School,361-365 North Rocks Road,North Rocks,2151,private,10465
+10593,North Sydney Public School,Bay Rd,Waverton,2060,public,10644
+10594,Oakville Public School,46 Ogden Rd,Oakville,2765,public,10479
+10595,Arndell College,118 Wolseley Road,Oakville,2765,private,10479
+10596,Oatley Public School,51-63 Letitia Street,Oatley,2223,public,10481
+10597,Oatley West Public School,Oatley Park Ave,Oatley,2223,public,10481
+10598,Georges River College Oatley Senior Campus,Oatley Ave & Hurstville Rd,Oatley,2223,public,10481
+10599,St Joseph's Catholic Primary School,21 Rosa Street,Oatley,2223,private,10481
+10600,Orchard Hills Public School,79-101 Kingswood Rd,Orchard Hills,2748,public,10485
+10601,Penrith Christian School,1 Simeon Road,Orchard Hills,2748,private,10485
+10602,Montgrove College,140 Bringelly Road,Orchard Hills,2748,private,10485
+10603,Penrith Anglican College,338-356 Wentworth Road,Orchard Hills,2748,private,10485
+10604,Padstow Park Public School,Segers Ave,Padstow,2211,public,10490
+10605,Padstow Heights Public School,Chamberlain Rd,Padstow,2211,public,10490
+10606,Padstow North Public School,Halcyon Ave,Padstow,2211,public,10490
+10607,Caroline Chisholm School,Napoli St,Padstow,2211,public,10490
+10608,Parklea Public School,Glenwood Park Drive,Glenwood,2768,public,10267
+10609,Caddies Creek Public School,Currawong St & Glenwood Pk Dr,Glenwood,2768,public,10267
+10610,Glenwood High School,Forman Ave & Glenwood Park Dr,Glenwood,2768,public,10267
+10611,Holy Cross Primary School,49 Meurants Lane,Glenwood,2768,private,10267
+10612,Trades Norwest Anglican Senior College,1000 Old Windsor Road,Glenwood,2768,private,10267
+10613,Parramatta Public School,3 Marist Place,Parramatta,2150,public,10496
+10614,Parramatta West Public School,Auburn & Young Sts,Parramatta,2150,public,10496
+10615,Parramatta East Public School,Brabyn St,Parramatta,2150,public,10496
+10616,Bayanami Public School,3 Marist Place,Parramatta,2150,public,10496
+10617,Parramatta High School,Great Western Hwy & Pitt St,Parramatta,2150,public,10496
+10618,Macarthur Girls High School,1-19 Macarthur Street,Parramatta,2150,public,10496
+10619,Arthur Phillip High School,Cnr Macquarie & Smith Sts,Parramatta,2150,public,10496
+10620,Our Lady of Mercy College Parramatta,Victoria Road,Parramatta,2150,private,10496
+10621,St Patrick's Primary School,Villiers St,Parramatta,2150,private,10496
+10622,Peakhurst Public School,Bonds Rd,Peakhurst,2210,public,10497
+10623,Peakhurst West Public School,Ogilvy St,Peakhurst,2210,public,10497
+10624,Georges River College Peakhurst Campus,Samuel & Rona Sts,Peakhurst,2210,public,10497
+10625,Aspect South East Sydney School,Monterra Avenue,Peakhurst,2210,private,10497
+10626,Pennant Hills Public School,Ramsay & Weemala Rds,Pennant Hills,2120,public,10501
+10627,Pennant Hills High School,Laurence St,Pennant Hills,2120,public,10501
+10628,Mount St Benedict College,447A Pennant Hills Road,Pennant Hills,2120,private,10501
+10629,St Agatha's Catholic Primary School,7 Trebor Road,Pennant Hills,2120,private,10501
+10630,West Pennant Hills Public School,Church St,West Pennant Hills,2125,public,10654
+10631,Penrith Public School,51 High St,Penrith,2750,public,10502
+10632,Penrith South Public School,172-190 Jamison Rd,Penrith,2750,public,10502
+10633,Kingswood Park Public School,Caloola Ave,Penrith,2750,public,10502
+10634,St Nicholas of Myra Primary School,Cnr Higgins Street and Lane,Penrith,2750,private,10502
+10635,St Dominic's College,53 Evan Street,Penrith,2750,private,10502
+10636,Penshurst Public School,Arcadia St,Penshurst,2222,public,10503
+10637,Hurstville Grove Infants School,81 Landsdowne St,Penshurst,2222,public,10503
+10638,Georges River College Penshurst Girls Campus,2 Austral St,Penshurst,2222,public,10503
+10639,St Declan's Catholic Primary School,94 Penshurst St,Penshurst,2222,private,10503
+10640,Pitt Town Public School,Buckingham St,Pitt Town,2756,public,10507
+10641,Plumpton Public School,Bottles Rd,Plumpton,2761,public,10510
+10642,Plumpton House School,327 Rooty Hill Road North,Plumpton,2761,public,10510
+10643,Plumpton High School,Hyatts Rd,Plumpton,2761,public,10510
+10644,Good Shepherd Primary School,134 Hyatts Road,Plumpton,2761,private,10510
+10645,Western Grammar School,15 Cannery Road,Plumpton,2671,private,10510
+10646,Prestons Public School,Kurrajong & Box Rds,Prestons,2170,public,10517
+10647,Dalmeny Public School,Dalmeny Drive,Prestons,2170,public,10517
+10648,William Carey Christian School,Bumbera Street,Prestons,2170,private,10517
+10649,Amity College,163 Kurrajong Road,Prestons,2170,private,10517
+10650,St Catherine of Siena Catholic Primary School,58 Dalmeny Drive,Prestons,2170,private,10517
+10651,Punchbowl Public School,1333 Canterbury Road,Punchbowl,2196,public,10519
+10652,Punchbowl Boys High School,Kelly St,Punchbowl,2196,public,10519
+10653,Wiley Park Girls High School,The Boulevarde,Punchbowl,2196,public,10519
+10654,St Jerome's Catholic Primary School,Rossmore Ave,Punchbowl,2196,private,10519
+10655,St Charbel's College,142 Highclere Avenue,Punchbowl,2196,private,10519
+10656,Putney Public School,Morrison Rd,Ryde,2112,public,10561
+10657,Ryde Public School,Pope St,Ryde,2112,public,10561
+10658,Meadowbank Public School,Thistle St,Ryde,2112,public,10561
+10659,Ryde Secondary College,Malvina St,Ryde,2112,public,10561
+10660,Holy Cross College,517 Victoria Road,Ryde,2112,private,10561
+10661,St Charles Catholic Primary School,582 Victoria Road,Ryde,2112,private,10561
+10662,Northcross Christian School,Cnr Lane Cove Rd & Dobson Cres,Ryde,2112,private,10561
+10663,Quakers Hill Public School,Medlow Drive,Quakers Hill,2763,public,10523
+10664,Hambledon Public School,Bali Drive,Quakers Hill,2763,public,10523
+10665,Barnier Public School,120 Barnier Drive,Quakers Hill,2763,public,10523
+10666,Wyndham College,Nirimba Precinct Eastern Rd,Quakers Hill,2763,public,10523
+10667,Quakers Hill High School,70 Lalor Road,Quakers Hill,2763,public,10523
+10668,Mary Immaculate Primary School,125 Barnier Drive,Quakers Hill,2763,private,10523
+10669,St John Paul ll Catholic College (Schofields),Nirimba Education Precinct/Eastern Road,Quakers Hill,2763,private,10523
+10670,Leppington Public School,144 Rickard Rd,Leppington,2179,public,10367
+10671,Rainbow Street Public School,90-98 Rainbow Street,Randwick,2031,public,10529
+10672,Randwick Public School,78 Avoca Street,Randwick,2031,public,10529
+10673,Centennial Park School,78A Avoca Street,Randwick,2031,public,10529
+10674,Sydney Childrens Hospital School,"""Level 0 High St""",Randwick,2031,public,10529
+10675,Randwick Boys High School,Rainbow & Avoca Sts,Randwick,2031,public,10529
+10676,Randwick Girls High School,Barker St,Randwick,2031,public,10529
+10677,Brigidine College Randwick,6 Aeolia Street,Randwick,2031,private,10529
+10678,Claremont College,30-32 Coogee Bay Road,Randwick,2031,private,10529
+10679,Coogee Boys' Preparatory School,Cnr Cook and Alison Road,Randwick,2031,private,10529
+10680,Marcellin College,195 Alison Road,Randwick,2031,private,10529
+10681,Our Lady of the Sacred Heart Catholic Primary School,193 Avoca Street,Randwick,2031,private,10529
+10682,St Margaret Mary's Catholic Primary School,Cnr Avoca St and Clovelly Rd,Randwick,2031,private,10529
+10683,The Emanuel School,20 Stanley St,Randwick,2031,private,10529
+10684,The Joseph Varga School,128 Alison Road,Randwick,2031,private,10529
+10685,Regents Park Public School,1 Auburn Rd,Regents Park,2143,public,10531
+10686,Karningul School,1A Auburn Rd,Regents Park,2143,public,10531
+10687,St Peter Chanel Catholic Primary School,43 Regent Street,Regents Park,2143,private,10531
+10688,Regents Park Christian School,59-61 Regent Street,Regents Park,2143,private,10531
+10689,Trinity Catholic College,39 Regent St,Regents Park,2143,private,10531
+10690,Regentville Public School,28-34 Schoolhouse Rd,Regentville,2745,public,10532
+10691,Revesby Public School,Victoria St,Revesby,2212,public,10533
+10692,Revesby South Public School,Mars St,Revesby,2212,public,10533
+10693,Broderick Gillawarna School,36-48 Victoria St,Revesby,2212,public,10533
+10694,Sir Joseph Banks High School,Turvey St,Revesby,2212,public,10533
+10695,St Luke's Catholic Primary School,75-79 Victoria Street,Revesby,2212,private,10533
+10696,Richmond North Public School,Grose Vale Rd,North Richmond,2754,public,10464
+10697,Colo High School,218 Bells Line of Road,North Richmond,2754,public,10464
+10698,Kuyper Christian School,294 Redbank Road,North Richmond,2754,private,10464
+10699,Riverstone Public School,Elizabeth St,Riverstone,2765,public,10538
+10700,Casuarina School,Garfield Rd E & Piccadilly St,Riverstone,2765,public,10538
+10701,Riverstone High School,71 McCulloch Street,Riverstone,2765,public,10538
+10702,St John's Primary School,5 Mcculloch Street,Riverstone,2765,private,10538
+10703,Norwest Christian College,Cnr Regent & Mcculloch Streets,Riverstone,2765,private,10538
+10704,Australian Christian College: Marsden Park,69 Farm Road,Riverstone,2765,private,10538
+10705,Rockdale Public School,Lord St,Rockdale,2216,public,10541
+10706,Kyeemagh Public School,Beehag St,Rockdale,2216,public,10541
+10707,St Joseph's Catholic Primary School,Watkin Street,Rockdale,2216,private,10541
+10708,St Dominic Savio School,19 William Street,Rockdale,2216,private,10541
+10709,St Mary and St Mina's Coptic Orthodox College,4-5 Alexandra Parade,Rockdale,2216,private,10541
+10710,Rose Bay Public School,Albemarle Ave,Rose Bay,2029,public,10546
+10711,Kincoppal-Rose Bay School of the Sacred Heart,New South Head Road,Rose Bay,2029,private,10546
+10712,Kambala,794 New South Head Road,Rose Bay,2029,private,10546
+10713,McAuley Catholic Primary School,8 Carlisle St,Rose Bay,2029,private,10546
+10714,Cranbrook School,6a Kent Rd,Rose Bay,2029,private,10546
+10715,Roseville Public School,Archbold Rd,Roseville,2069,public,10551
+10716,Roseville College,27-29 Bancroft Avenue,Roseville,2069,private,10551
+10717,Rossmore Public School,Bringelly Rd,Rossmore,2171,public,10553
+10718,Bellfield College,29 - 31 Rossmore Avenue West,Rossmore,2557,private,10553
+10719,Rouse Hill Public School,Clower Ave,Rouse Hill,2155,public,10554
+10720,Ironbark Ridge Public School,Ironbark Ridge Rd & Withers Rd,Rouse Hill,2155,public,10554
+10721,Rouse Hill High School,105 Withers Road,Rouse Hill,2155,public,10554
+10722,Rouse Hill Anglican College,Corner Rouse Road and Worcester Road,Rouse Hill,2155,private,10554
+10723,Rydalmere Public School,397 Victoria Road,Rydalmere,2116,public,10560
+10724,St Mary's Primary School,1 Myrtle St,Rydalmere,2116,private,10560
+10725,North Ryde Public School,Coxs Rd,North Ryde,2113,public,10466
+10726,Truscott Street Public School,Truscott St,North Ryde,2113,public,10466
+10727,Ryde East Public School,12 Twin Rd,North Ryde,2113,public,10466
+10728,Arndell School,Badajoz Rd,North Ryde,2113,public,10466
+10729,Holy Spirit Catholic Primary School,Cooney Street,North Ryde,2113,private,10466
+10730,Macquarie University Special Education Centre,Building X5A Macquarie University,North Ryde,2113,private,10466
+10731,St Johns Park Public School,Sandringham St,St Johns Park,2176,public,10594
+10732,King Park Public School,Humphries Rd,St Johns Park,2176,public,10594
+10733,St Johns Park High School,Mimosa Rd,St Johns Park,2176,public,10594
+10734,St Marys Public School,Princess Mary St,St Marys,2760,public,10596
+10735,Oxley Park Public School,Adelaide St,St Marys,2760,public,10596
+10736,St Marys South Public School,96 Monfarville St,St Marys,2760,public,10596
+10737,Colyton High School,37-53 Carpenter St,St Marys,2760,public,10596
+10738,St Marys Senior High School,Kalang Ave,St Marys,2760,public,10596
+10739,Our Lady of the Rosary Primary School,32b Saddington Street,St Marys,2760,private,10596
+10740,St Peters Public School,Church St,St Peters,2044,public,10597
+10741,Sans Souci Public School,Rocky Point Rd,Sans Souci,2219,public,10567
+10742,St Finbar's Primary School,Broughton St,Sans Souci,2219,private,10567
+10743,St George Christian School,4 Hillview St,Sans Souci,2219,private,10567
+10744,Schofields Public School,St Albans Rd,Schofields,2762,public,10569
+10745,St John Paul II Catholic College (Schofields),85 Hambledon Road,Schofields,2762,private,10569
+10746,St Joseph's Primary School,78 Alex Avenue,Schofields,2762,private,10569
+10747,Smithfield Public School,O Connell St,Smithfield,2164,public,10579
+10748,St Gertrude's Catholic Primary School,1-11 Justin Street,Smithfield,2164,private,10579
+10749,Strathfield North Public School,251 Concord Rd,North Strathfield,2137,public,10469
+10750,The McDonald College,17 George Street,North Strathfield,2137,private,10469
+10751,Our Lady of the Assumption Catholic Primary School,1a Hamilton Street East,North Strathfield,2137,private,10469
+10752,Strathfield South Public School,457 Liverpool Road,Strathfield,2135,public,10600
+10753,Chalmers Road School,Chalmers Rd,Strathfield,2135,public,10600
+10754,Marie Bashir Public School,159 Albert Road,Strathfield,2135,public,10600
+10755,Strathfield Girls High School,Albert Rd,Strathfield,2135,public,10600
+10756,Meriden School,12 Redmyre Road,Strathfield,2135,private,10600
+10757,St Martha's Catholic Primary School,88 Churchill Avenue,Strathfield,2135,private,10600
+10758,St Patrick's College,Edgar Street,Strathfield,2135,private,10600
+10759,Santa Sabina College,90 The Boulevarde,Strathfield,2135,private,10600
+10760,Australian International Academy  Sydney  Strathfield Campus,416-420 Liverpool Road,Strathfield,2135,private,10600
+10761,Meriden School,36 Redmyre Rd,Strathfield,2135,private,10600
+10762,Trinity Grammar School,125 The Boulevarde,Strathfield,2135,private,10600
+10763,Santa Sabina College,59/63 The Boulevarde,Strathfield,2135,private,10600
+10764,Summer Hill Public School,Moonbie St,Summer Hill,2130,public,10602
+10765,St Patrick's Catholic Primary School,9 Drynan St,Summer Hill,2130,private,10602
+10766,Trinity Grammar School,Prospect Road,Summer Hill,2130,private,10602
+10767,Sutherland Public School,38-54 Eton Street,Sutherland,2232,public,10604
+10768,Sutherland North Public School,Auburn St,Sutherland,2232,public,10604
+10769,Minerva School,Eton St,Sutherland,2232,public,10604
+10770,St Patrick's Catholic Primary School,Belmont Street,Sutherland,2232,private,10604
+10771,St Patrick's College,551 President Avenue,Sutherland,2232,private,10604
+10772,Sylvania Public School,Princes Hwy,Sylvania,2224,public,10608
+10773,Sylvania Heights Public School,Lisbon Street,Sylvania,2224,public,10608
+10774,Sylvania High School,17-23 Bellingara Road,Sylvania,2224,public,10608
+10775,Taren Point Public School,93 Woodlands Rd,Taren Point,2229,public,10611
+10776,Terrey Hills Public School,Cooyong Rd,Terrey Hills,2084,public,10616
+10777,Kinma School,127 Coolowie Road,Terrey Hills,2084,private,10616
+10778,Sydney Japanese School,112 Booralie Road,Terrey Hills,2084,private,10616
+10779,Northern Beaches Christian School,Echunga Road,Terrey Hills,2084,private,10616
+10780,German International School Sydney,33 Myoora Road,Terrey Hills,2084,private,10616
+10781,Toongabbie Public School,Fitzwilliam Rd,Toongabbie,2146,public,10621
+10782,Toongabbie West Public School,Ballandella Rd,Toongabbie,2146,public,10621
+10783,Metella Road Public School,Metella Rd,Toongabbie,2146,public,10621
+10784,Toongabbie Christian School Ltd,40 Metella Road,Toongabbie,2146,private,10621
+10785,Turramurra North Public School,237 Bobbin Head Rd,North Turramurra,2074,public,10471
+10786,Gibberagong Environmental Education Centre,Bobbin Head Picnic Area,North Turramurra,2074,public,10471
+10787,Ku-ring-gai High School,Bobbin Head Rd,North Turramurra,2074,public,10471
+10788,Ultimo Public School,Quarry St,Ultimo,2007,public,10625
+10789,International Grammar School,4-8 Kelly Street,Ultimo,2007,private,10625
+10790,Vaucluse Public School,Cambridge Ave,Vaucluse,2030,public,10627
+10791,Carramar Public School,The Horsley Drive,Carramar,2163,public,10119
+10792,Vineyard Public School,4 Bandon Rd,Vineyard,2765,public,10629
+10793,Waitara Public School,64-68 Edgeworth David Avenue,Wahroonga,2076,public,10631
+10794,Wahroonga Public School,71 Burns Rd,Wahroonga,2076,public,10631
+10795,Abbotsleigh,1666 Pacific Highway,Wahroonga,2076,private,10631
+10796,Knox Grammar School,Pacific Highway,Wahroonga,2076,private,10631
+10797,Prouille Catholic Primary School,5 Water Street,Wahroonga,2076,private,10631
+10798,St Leo's Catholic College,16 Woolcott Ave,Wahroonga,2076,private,10631
+10799,St Edmund's School,60 Burns Road,Wahroonga,2076,private,10631
+10800,St Lucy's School,21 Cleveland Street,Wahroonga,2076,private,10631
+10801,Knox Grammar School,Billyard Avenue,Wahroonga,2076,private,10631
+10802,Wahroonga Adventist School,181 Fox Valley Road,Wahroonga,2076,private,10631
+10803,Knox Grammar School,61 Coonabarra Street,Wahroonga,2076,private,10631
+10804,Wallacia Public School,1573-1585 Mulgoa Rd,Wallacia,2745,public,10634
+10805,Warrawee Public School,1486 Pacific Highway,Turramurra,2074,public,10623
+10806,Turramurra Public School,Kissing Point Rd,Turramurra,2074,public,10623
+10807,Waterfall Public School,McKell Ave,Waterfall,2233,public,10639
+10808,Wentworthville Public School,70-100 Fullagar Road,Wentworthville,2145,public,10647
+10809,Pendle Hill Public School,27-29 Pendle Way,Wentworthville,2145,public,10647
+10810,Darcy Road Public School,98A Darcy Road,Wentworthville,2145,public,10647
+10811,Pendle Hill High School,Knox St,Wentworthville,2145,public,10647
+10812,Our Lady of Mount Carmel Primary School,Bennett Street,Wentworthville,2145,private,10647
+10813,Wilberforce Public School,Macquarie Rd,Wilberforce,2756,public,10663
+10814,Willoughby Public School,30-34 Oakville Road,Willoughby,2068,public,10666
+10815,Willoughby Girls High School,Mowbray Rd,Willoughby,2068,public,10666
+10816,St Thomas' Catholic Primary School,2 Horsley Avenue,Willoughby,2068,private,10666
+10817,Athelstane Public School,Athelstane Ave,Arncliffe,2205,public,10013
+10818,Arncliffe West Infants School,Loftus St,Arncliffe,2205,public,10013
+10819,Arncliffe Public School,Princes Hwy,Arncliffe,2205,public,10013
+10820,St Francis Xavier's Catholic Primary School,Forest Road,Arncliffe,2205,private,10013
+10821,Al Zahra College,3-5 Wollongong Road,Arncliffe,2205,private,10013
+10822,Kingdom Culture Christian School,19 Dowling Street,Arncliffe,2205,private,10013
+10823,Windsor Public School,Dight St,Windsor,2756,public,10668
+10824,St Matthew's Primary School,Tebbutt Street,Windsor,2756,private,10668
+10825,Wisemans Ferry Public School,Old Northern Rd,Wisemans Ferry,2775,public,10671
+10826,Oyster Bay Public School,Short St,Oyster Bay,2225,public,10488
+10827,Kemps Creek Public School,100 Cross Street,Kemps Creek,2178,public,10328
+10828,Emmaus Catholic College,87-109 Bakers Lane,Kemps Creek,2178,private,10328
+10829,Trinity Catholic Primary School,61-83 Bakers Lane,Kemps Creek,2178,private,10328
+10830,Christadelphian Heritage College Sydney Inc,110 Cross Street,Kemps Creek,2178,private,10328
+10831,Warwick Farm Public School,Lawrence Hargrave Rd,Warwick Farm,2170,public,10638
+10832,Lawrence Hargrave School,Station St,Warwick Farm,2170,public,10638
+10833,Chester Hill Public School,Proctor Pde,Chester Hill,2162,public,10137
+10834,Chester Hill North Public School,Campbell Hill Rd,Chester Hill,2162,public,10137
+10835,Rowland Hassall School,18B Parkham Street,Chester Hill,2162,public,10137
+10836,Chester Hill High School,Kenward Ave,Chester Hill,2162,public,10137
+10837,Salamah College,40 Hector Street,Chester Hill,2162,private,10137
+10838,Georges Hall Public School,Pennington Ave,Georges Hall,2198,public,10255
+10839,St Mary's Catholic Primary School,Rex Road,Georges Hall,2198,private,10255
+10840,Hopepoint Christian School,39 Ashcroft Street,Georges Hall,2198,private,10255
+10841,Georges River Grammar,53 Georges Crescent,Georges Hall,2198,private,10255
+10842,South Coogee Public School,Moverly Rd,South Coogee,2034,public,10580
+10843,Annangrove Public School,Annangrove Rd,Annangrove,2156,public,10011
+10844,Woronora River Public School,Prices Circuit,Woronora,2232,public,10681
+10845,Riverwood Public School,Union St,Riverwood,2210,public,10540
+10846,Hannans Road Public School,Hannans Rd,Riverwood,2210,public,10540
+10847,St Joseph's Catholic Primary School,28-32 Thurlow St,Riverwood,2210,private,10540
+10848,Southside Montessori School,35 Lilian Road,Riverwood,2210,private,10540
+10849,Belrose Public School,Ralston Ave,Belrose,2085,public,10049
+10850,Wakehurst Public School,Glen St,Belrose,2085,public,10049
+10851,Kamaroi Rudolf Steiner School,220 Forest Way,Belrose,2085,private,10049
+10852,Covenant Christian School,212 Forest Way,Belrose,2085,private,10049
+10853,Yanginanook School,Bundaleer Street,Belrose,2085,private,10049
+10854,John Colet School,6 Wyatt Avenue,Belrose,2085,private,10049
+10855,Bundeena Public School,48R Scarborough St,Bundeena,2230,public,10090
+10856,Pymble Public School,Crown Road,Pymble,2073,public,10521
+10857,Gordon West Public School,146 Ryde Road,Pymble,2073,public,10521
+10858,Sacred Heart Catholic School,4 Richard Porter Way,Pymble,2073,private,10521
+10859,Pymble Ladies' College,Avon Road,Pymble,2073,private,10521
+10860,Northside Montessori School,42 Bobbin Head Road,Pymble,2073,private,10521
+10861,Condell Park Public School,Augusta St,Condell Park,2200,public,10161
+10862,Condell Park High School,Third Ave,Condell Park,2200,public,10161
+10863,Condell Park Christian School,29 Lancelot Street,Condell Park,2200,private,10161
+10864,Avalon Public School,Old Barrenjoey Rd,Avalon Beach,2107,public,10022
+10865,Maria Regina Catholic Primary School,42 Central Road,Avalon Beach,2107,private,10022
+10866,Lugarno Public School,Old Forest Rd,Lugarno,2210,public,10388
+10867,Narraweena Public School,McIntosh Rd,Narraweena,2099,public,10448
+10868,St John The Apostle Catholic Primary School,166 Alfred Street,Narraweena,2099,private,10448
+10869,Karuna Montessori School,48-50 Parr Parade,Narraweena,2099,private,10448
+10870,Jannali Public School,107-121 Sutherland Road,Jannali,2226,public,10321
+10871,Jannali East Public School,Box Rd,Jannali,2226,public,10321
+10872,The Jannali High School,Sutherland Rd,Jannali,2226,public,10321
+10873,Ramsgate Public School,Chuter Ave,Ramsgate,2217,public,10527
+10874,Denistone East Public School,Lovell Rd,Eastwood,2122,public,10216
+10875,Eastwood Heights Public School,Lincoln St,Eastwood,2122,public,10216
+10876,Kent Road Public School,Kent & Herring Rds,Eastwood,2122,public,10216
+10877,Eastwood Public School,Rowe St,Eastwood,2122,public,10216
+10878,Epping Boys High School,213 Vimiera Rd,Eastwood,2122,public,10216
+10879,Marist College,44 Hillview Road,Eastwood,2122,private,10216
+10880,St Kevin's Catholic Primary School,28 Hillview Road,Eastwood,2122,private,10216
+10881,Yagoona Public School,425 Hume Hwy,Yagoona,2199,public,10683
+10882,Christ The King Catholic School Bass Hill,2 Cantrell Street,Yagoona,2199,private,10683
+10883,Al Sadiq College,178 Cooper Road,Yagoona,2199,private,10683
+10884,Wattle Grove Public School,Cressbrook Drive,Wattle Grove,2173,public,10642
+10885,St Mark's Coptic Orthodox College,52 Australis Avenue,Wattle Grove,2173,private,10642
+10886,Narwee Public School,Broadarrow Rd,Narwee,2209,public,10449
+10887,Westmead Public School,Hawkesbury Rd,Westmead,2145,public,10658
+10888,Redbank School,Dragonfly Drive,Westmead,2145,public,10658
+10889,Palm Avenue School,Dragonfly Drive,Westmead,2145,public,10658
+10890,The Childrens Hospital School,Hawkesbury Rd & Hainsworth St,Westmead,2145,public,10658
+10891,Catherine McAuley Westmead,Darcy Road,Westmead,2145,private,10658
+10892,Parramatta Marist High School,2 Darcy Road,Westmead,2145,private,10658
+10893,Sacred Heart Primary School,12 Ralph Street,Westmead,2145,private,10658
+10894,Westmead Christian Grammar School,2-14 Bridge Road,Westmead,2145,private,10658
+10895,Mother Teresa Primary School,2a Darcy Road,Westmead,2145,private,10658
+10896,Mount Colah Public School,Telopea St,Mount Colah,2079,public,10437
+10897,McCallums Hill Public School,35-51 McCallum Street,Roselands,2196,public,10549
+10898,Narrabeen North Public School,Namona St,North Narrabeen,2101,public,10462
+10899,Narrabeen Sports High School,10 Namona St,North Narrabeen,2101,public,10462
+10900,Grays Point Public School,109 Angle Rd,Grays Point,2232,public,10272
+10901,Killara Public School,Ridgeland Ave,Killara,2071,public,10332
+10902,Beaumont Road Public School,17 Beaumont Road,Killara,2071,public,10332
+10903,Killara High School,Koola Ave,Killara,2071,public,10332
+10904,Castle Cove Public School,Kendall Rd,Castle Cove,2069,public,10122
+10905,Curl Curl North Public School,Playfair Rd,North Curl Curl,2099,public,10458
+10906,Northern Beaches Secondary College Manly Campus,138 Abbott Rd,North Curl Curl,2099,public,10458
+10907,Crown Street Public School,356 Crown Street,Surry Hills,2010,public,10603
+10908,Sydney Distance Education Primary School,1 Collins Street,Surry Hills,2010,public,10603
+10909,Bourke Street Public School,590 Bourke St,Surry Hills,2010,public,10603
+10910,Sydney Girls High School,Moore Park,Surry Hills,2010,public,10603
+10911,Aim Senior Secondary Music College,17-51 Foveaux Street,Surry Hills,2010,private,10603
+10912,Tempe Public School,Unwins Bridge Rd,Tempe,2044,public,10613
+10913,Tempe High School,Unwins Bridge Rd,Tempe,2044,public,10613
+10914,Manly Village Public School,Darley Rd,Manly,2095,public,10395
+10915,Royal Far West School,22 Wentworth St,Manly,2095,public,10395
+10916,St Paul's Catholic College,Darley Road,Manly,2095,private,10395
+10917,St Mary's Catholic Primary School,Whistler St,Manly,2095,private,10395
+10918,Stella Maris College,52 Eurobin Avenue,Manly,2095,private,10395
+10919,Farmhouse Montessori School,Building 6 North Head Scenic Drive  North Head Sanctuary,Manly,2095,private,10395
+10920,Marrickville West Public School,Livingstone Rd,Marrickville,2204,public,10401
+10921,Marrickville Public School,Chapel St,Marrickville,2204,public,10401
+10922,Wilkins Public School,Park Rd,Marrickville,2204,public,10401
+10923,Ferncourt Public School,Premier St,Marrickville,2204,public,10401
+10924,Marrickville High School,Northcote St,Marrickville,2204,public,10401
+10925,St Brigid's Catholic Primary School,392A Marrickville Road,Marrickville,2204,private,10401
+10926,Casimir Catholic College,200 Livingstone Road,Marrickville,2204,private,10401
+10927,The Waranara Centre,434 Marrickville Rd,Marrickville,2204,private,10401
+10928,Aspect South East Sydney School,116 Chapel Road,Marrickville,2204,private,10401
+10929,The Waranara Centre,2 South Street,Marrickville,2204,private,10401
+10930,Collaroy Plateau Public School,Plateau Rd,Collaroy Plateau,2097,public,10156
+10931,Wheeler Heights Public School,Veterans Pde,Collaroy Plateau,2097,public,10156
+10932,St Rose Catholic Primary School,8 Rose Avenue,Collaroy Plateau,2097,private,10156
+10933,Beacon Hill Public School,Tristram Rd,Beacon Hill,2100,public,10041
+10934,Villawood East Public School,Lowana St,Villawood,2163,public,10628
+10935,Sacred Heart Catholic Primary School,122 Carawatha Street,Villawood,2163,private,10628
+10936,Canley Heights Public School,Cambridge St,Canley Heights,2166,public,10110
+10937,Balgowlah North Public School,10 Manning Street,North Balgowlah,2093,public,10456
+10938,Farmhouse Montessori School,9 Bardoo Avenue,North Balgowlah,2093,private,10456
+10939,Gordon East Public School,Rosedale Rd,Gordon,2072,public,10269
+10940,Ravenswood School for Girls,Henry Street,Gordon,2072,private,10269
+10941,Yennora Public School,Ellis Pde,Yennora,2161,public,10686
+10942,Richmond Public School,Windsor St,Richmond,2753,public,10536
+10943,Richmond High School,Lennox St,Richmond,2753,public,10536
+10944,St Monica's Primary School,32 Francis Rd,Richmond,2753,private,10536
+10945,Guildford West Public School,Palmer St,Guildford West,2161,public,10285
+10946,Forestville Public School,7 Melwood Ave,Forestville,2087,public,10250
+10947,Our Lady of Good Counsel Catholic Primary School,11 Currie Road,Forestville,2087,private,10250
+10948,Forestville Montessori School,1 Angel Place,Forestville,2087,private,10250
+10949,Aspect Vern Barnett School,41 Cook Street,Forestville,2087,private,10250
+10950,Manly Vale Public School,Sunshine St,Manly Vale,2093,public,10396
+10951,Northern Beaches Secondary College Mackellar Girls Campus,Campbell Pde & Quirk Rd,Manly Vale,2093,public,10396
+10952,St Kieran's Catholic Primary School,63 Gordon Street,Manly Vale,2093,private,10396
+10953,Dundas Public School,85 Kissing Point Road,Dundas,2117,public,10202
+10954,St Patrick's Marist College,151 Kirby Street,Dundas,2117,private,10202
+10955,Mount Kuring-gai Public School,Leeming St,Mount Kuring-Gai,2080,public,10439
+10956,Rooty Hill Public School,Westminster St,Rooty Hill,2766,public,10544
+10957,Rooty Hill High School,54 North Parade,Rooty Hill,2766,public,10544
+10958,St Aidan's Primary School,1-5 Adelaide Street,Rooty Hill,2766,private,10544
+10959,St Agnes Catholic High School,Evans Road,Rooty Hill,2766,private,10544
+10960,Birrong Public School,132 Auburn Rd,Birrong,2143,public,10066
+10961,Birrong Boys High School,Rodd St,Birrong,2143,public,10066
+10962,Birrong Girls High School,Cooper Rd,Birrong,2143,public,10066
+10963,Leumeah Public School,Burrendong Rd,Leumeah,2560,public,10369
+10964,Leumeah High School,Junction Rd,Leumeah,2560,public,10369
+10965,Cambridge Park Public School,35 Oxford St,Cambridge Park,2747,public,10101
+10966,Cambridge Gardens Public School,Trinity Drive,Cambridge Park,2747,public,10101
+10967,Cambridge Park High School,Harrow Rd,Cambridge Park,2747,public,10101
+10968,Blacktown North Public School,1 Bessemer St,Blacktown,2148,public,10068
+10969,Blacktown West Public School,Lancaster St,Blacktown,2148,public,10068
+10970,Marayong Public School,Davis Rd,Blacktown,2148,public,10068
+10971,Blacktown South Public School,183 Flushcombe Rd,Blacktown,2148,public,10068
+10972,Lynwood Park Public School,87 Turner Street,Blacktown,2148,public,10068
+10973,Walters Road Public School,158 Walters Rd,Blacktown,2148,public,10068
+10974,Marayong South Public School,McClean St,Blacktown,2148,public,10068
+10975,Shelley Public School,Hadrian Ave,Blacktown,2148,public,10068
+10976,Coreen School,Hereward Hwy,Blacktown,2148,public,10068
+10977,Blacktown Girls High School,Fifth Ave,Blacktown,2148,public,10068
+10978,Blacktown Boys High School,Sunnyholt Rd & Fifth Ave,Blacktown,2148,public,10068
+10979,Mitchell High School,Keyworth Drive,Blacktown,2148,public,10068
+10980,Evans High School,166 Walters Road,Blacktown,2148,public,10068
+10981,Patrician Brothers' College,100 Flushcombe Rd,Blacktown,2148,private,10068
+10982,St Patrick's Primary School,51-59 Allawah Street,Blacktown,2148,private,10068
+10983,Tyndale Christian School,58 Douglas Road,Blacktown,2148,private,10068
+10984,Pete's Place,151 Reservoir Road,Blacktown,2148,private,10068
+10985,Macquarie Fields Public School,Fields Rd,Macquarie Fields,2564,public,10390
+10986,Curran Public School,Melaleuca Drive,Macquarie Fields,2564,public,10390
+10987,Guise Public School,Eucalyptus Drive,Macquarie Fields,2564,public,10390
+10988,James Meehan High School,Harold St,Macquarie Fields,2564,public,10390
+10989,Macquarie Fields High School,2 Harold St,Macquarie Fields,2564,public,10390
+10990,Macarthur Adventist College,12 Victoria Road,Macquarie Fields,2564,private,10390
+10991,EDEN College,86 Parliament Road,Macquarie Fields,2564,private,10390
+10992,Villawood North Public School,Bligh St,Fairfield East,2165,public,10241
+10993,Verona School,135B Fairfield St,Fairfield East,2165,public,10241
+10994,Windsor South Public School,77A Church Street,South Windsor,2756,public,10587
+10995,Windsor Park Public School,156 Rifle Range Road,South Windsor,2756,public,10587
+10996,Bede Polding College,Rifle Range Road,South Windsor,2756,private,10587
+10997,Oatlands Public School,Belmore St East,Oatlands,2117,public,10480
+10998,M.E.T. School,216 Pennant Hills Road,Oatlands,2117,private,10480
+10999,Kirrawee Public School,Bath Rd,Kirrawee,2232,public,10341
+11000,Kirrawee High School,21-29 Hunter St,Kirrawee,2232,public,10341
+11001,Aspect South East Sydney School,2 Mikarie Place,Kirrawee,2232,private,10341
+11002,Illawong Public School,Fowler Rd,Illawong,2234,public,10317
+11003,Lilli Pilli Public School,Lilli Pilli Point Rd,Lilli Pilli,2229,public,10373
+11004,Telopea Public School,Chestnut Avenue,Telopea,2117,public,10612
+11005,Rydalmere East Public School,Spurway St,Ermington,2115,public,10235
+11006,Ermington West Public School,Vignes St,Ermington,2115,public,10235
+11007,Yowie Bay Public School,Wonga Rd,Yowie Bay,2228,public,10687
+11008,Erskineville Public School,Swanson St,Erskineville,2043,public,10237
+11009,St Mary's Catholic Primary School ,54 Swanson Street,Erskineville,2043,private,10237
+11010,Castlereagh Public School,87-101 Post Office Rd,Castlereagh,2749,public,10125
+11011,Penrith Lakes Environmental Education Centre,89-151 Old Castlereagh Road,Castlereagh,2749,public,10125
+11012,The Lakes Christian College,206 East Wilchard Road,Castlereagh,2749,private,10125
+11013,Yates Avenue Public School,Yates Ave,Dundas Valley,2117,public,10203
+11014,St Bernadette's Primary School,Cox Crescent,Dundas Valley,2117,private,10203
+11015,Liverpool West Public School,79-81 Hoxton Park Rd,Liverpool,2170,public,10378
+11016,Marsden Road Public School,Marsden Rd,Liverpool,2170,public,10378
+11017,Liverpool Hospital School,Elizabeth St,Liverpool,2170,public,10378
+11018,Mainsbridge School,Flowerdale Rd,Liverpool,2170,public,10378
+11019,Liverpool Public School,Railway Street,Liverpool,2170,public,10378
+11020,Liverpool Girls High School,Forbes St,Liverpool,2170,public,10378
+11021,Liverpool Boys High School,18 Forbes Street,Liverpool,2170,public,10378
+11022,All Saints Catholic College,53 Bigge Street,Liverpool,2170,private,10378
+11023,All Saints Catholic Primary School (Liverpool),George Street,Liverpool,2170,private,10378
+11024,Al Amanah College,55 Speed Street,Liverpool,2170,private,10378
+11025,Epping North Public School,Boundary Rd,North Epping,2121,public,10459
+11026,Lalor Park Public School,Heffron Rd,Lalor Park,2147,public,10355
+11027,St Bernadette's Primary School,18 Wheeler Street,Lalor Park,2147,private,10355
+11028,Casula Public School,De Meyrick Ave,Casula,2170,public,10126
+11029,Casula High School,Myall Rd,Casula,2170,public,10126
+11030,All Saints Catholic Senior College,Leacocks Lane,Casula,2170,private,10126
+11031,Elanora Heights Public School,43 Elanora Road,Elanora Heights,2101,public,10221
+11032,Allambie Heights Public School,165 Allambie Road,Allambie Heights,2100,public,10007
+11033,St Marys North Public School,24-40 Willow Road,North St Marys,2760,public,10468
+11034,Chifley College Dunheved Campus,Maple Rd,North St Marys,2760,public,10468
+11035,Quakers Hill East Public School,14 Chase Drive,Acacia Gardens,2763,public,10002
+11036,Loftus Public School,Tenth Ave,Loftus,2232,public,10380
+11037,Cook School,Rawson Ave,Loftus,2232,public,10380
+11038,Cromer Public School,Carcoola Rd,Cromer,2099,public,10171
+11039,Northern Beaches Secondary College Cromer Campus,South Creek Rd,Cromer,2099,public,10171
+11040,Hornsby Heights Public School,Somerville Rd,Hornsby,2077,public,10306
+11041,Hornsby North Public School,Ida St,Hornsby,2077,public,10306
+11042,Hornsby South Public School,Clarke Rd,Hornsby,2077,public,10306
+11043,Clarke Road School,48-58 Clarke Road,Hornsby,2077,public,10306
+11044,Hornsby Girls High School,Edgeworth David Ave,Hornsby,2077,public,10306
+11045,Barker College,91 Pacific Highway,Hornsby,2077,private,10306
+11046,Normanhurst West Public School,Dartford Rd,Thornleigh,2120,public,10620
+11047,Thornleigh West Public School,Giblett Ave,Thornleigh,2120,public,10620
+11048,Marayong Heights Public School,Guerie St,Marayong,2148,public,10398
+11049,St Andrew's Primary School,36 Breakfast Road,Marayong,2148,private,10398
+11050,St Andrews College,116-132 Quakers Road,Marayong,2148,private,10398
+11051,St Andrews College,50 Breakfast Road,Marayong,2148,private,10398
+11052,West Pymble Public School,Apollo Ave,West Pymble,2073,public,10655
+11053,Our Lady of Perpetual Succour Catholic Primary School,64 Kendall Street,West Pymble,2073,private,10655
+11054,Bennett Road Public School,100-114 Bennett Rd,Colyton,2760,public,10157
+11055,Holsworthy Public School,Infantry Pde,Holsworthy,2173,public,10302
+11056,Holsworthy High School,Huon Cres,Holsworthy,2173,public,10302
+11057,St Christopher's Catholic Primary School,205 Heathcote Rd,Holsworthy,2173,private,10302
+11058,Aspect Macarthur School,Heathcote Road,Holsworthy,2173,private,10302
+11059,Lurnea Public School,West & Reilly Sts,Lurnea,2170,public,10389
+11060,Lurnea High School,2 Hillview Parade,Lurnea,2170,public,10389
+11061,St Francis Xavier's Catholic Primary School,71 Webster Rd,Lurnea,2170,private,10389
+11062,St Ives North Public School,87 Memorial Ave,St Ives,2075,public,10592
+11063,St Ives Public School,Horace St,St Ives,2075,public,10592
+11064,St Ives Park Public School,Woodbury & Acron Rds,St Ives,2075,public,10592
+11065,Sir Eric Woodward Memorial School,Ayres & Acron Rds,St Ives,2075,public,10592
+11066,St Ives High School,Yarrabung Rd,St Ives,2075,public,10592
+11067,Brigidine College  St Ives,325 Mona Vale Road,St Ives,2075,private,10592
+11068,Corpus Christi Catholic Primary School,17 Link Road,St Ives,2075,private,10592
+11069,Sydney Grammar School  St Ives Preparatory School,11-21 Ayres Road,St Ives,2075,private,10592
+11070,Masada College High School,9-15 Link Road,St Ives,2075,private,10592
+11071,Roselea Public School,North Rocks Rd,Carlingford,2118,public,10116
+11072,Carlingford West Public School,Felton Rd,Carlingford,2118,public,10116
+11073,Murray Farm Public School,Tracey Ave,Carlingford,2118,public,10116
+11074,Carlingford Public School,Rickard St,Carlingford,2118,public,10116
+11075,James Ruse Agricultural High School,Felton Rd,Carlingford,2118,public,10116
+11076,Carlingford High School,North Rocks Rd,Carlingford,2118,public,10116
+11077,Cumberland High School,183 Pennant Hills Road,Carlingford,2118,public,10116
+11078,St Gerard's Catholic Primary School,543 North Rocks Rd,Carlingford,2118,private,10116
+11079,Bardia Public School,Macdonald Rd,Bardia,2565,public,10035
+11080,Sadleir Public School,Insignia St,Sadleir,2168,public,10564
+11081,St Therese Catholic Primary School,96 Cartwright Ave,Sadleir,2168,private,10564
+11082,Peakhurst South Public School,45A Pindari Road,Peakhurst Heights,2210,public,10498
+11083,Heckenberg Public School,Jindabyne St,Heckenberg,2168,public,10296
+11084,Busby Public School,South Liverpool Rd,Busby,2168,public,10095
+11085,Miller Public School,Miller Rd & Shropshire St,Miller,2168,public,10419
+11086,Miller High School,60 Cabramatta Avenue,Miller,2168,public,10419
+11087,Picnic Point Public School,Prince & Thomas Sts,Picnic Point,2213,public,10506
+11088,Picnic Point High School,61 Kennedy Street,Picnic Point,2213,public,10506
+11089,Ashcroft Public School,Sheriff St,Ashcroft,2168,public,10017
+11090,Ashcroft High School,Maxwells Ave,Ashcroft,2168,public,10017
+11091,Smithfield West Public School,Wetherill St,Wetherill Park,2164,public,10659
+11092,William Stimson Public School,Lily St,Wetherill Park,2164,public,10659
+11093,Aspect Western Sydney School,295 Victoria Street,Wetherill Park,2164,private,10659
+11094,Bilgola Plateau Public School,Plateau Rd,Bilgola Plateau,2107,public,10064
+11095,Cartwright Public School,Willan Drive,Cartwright,2168,public,10121
+11096,Toongabbie East Public School,Harris Rd,Constitution Hill,2145,public,10163
+11097,Lewisham Public School,The Boulevarde,Lewisham,2049,public,10370
+11098,Christian Brothers High School,68 The Boulevarde,Lewisham,2049,private,10370
+11099,The John Berne School,1 Thomas Street,Lewisham,2049,private,10370
+11100,Eileen OConnor Catholic College,7 Thomas Street,Lewisham,2049,private,10370
+11101,Baulkham Hills North Public School,2A Girralong Ave,Baulkham Hills,2153,public,10039
+11102,Jasper Road Public School,Jasper Rd,Baulkham Hills,2153,public,10039
+11103,Crestwood Public School,38 Peel Rd,Baulkham Hills,2153,public,10039
+11104,Matthew Pearce Public School,Astoria Park Rd,Baulkham Hills,2153,public,10039
+11105,Baulkham Hills High School,Windsor Rd,Baulkham Hills,2153,public,10039
+11106,Model Farms High School,Gooden Drive,Baulkham Hills,2153,public,10039
+11107,Crestwood High School,17 Chapel Lane,Baulkham Hills,2153,public,10039
+11108,St Michael's School,3-5 Chapel Lane,Baulkham Hills,2153,private,10039
+11109,Woodbury,Building 11  92 Seven Hills Road,Baulkham Hills,2153,private,10039
+11110,Whalan Public School,Karangi Rd,Whalan,2770,public,10660
+11111,Madang Avenue Public School,Mimika Avenue,Whalan,2770,public,10660
+11112,Halinda School,Mimika Ave,Whalan,2770,public,10660
+11113,Killarney Heights Public School,Tralee Ave,Killarney Heights,2087,public,10333
+11114,Killarney Heights High School,Starkey St,Killarney Heights,2087,public,10333
+11115,Gymea North Public School,Ruby Rd,Gymea,2227,public,10286
+11116,Gymea Technology High School,Hotham Rd & Princes Hwy,Gymea,2227,public,10286
+11117,St Catherine Labouré Catholic Primary School,123 Gymea Bay Road,Gymea,2227,private,10286
+11118,Sydney Montessori School,99-107 Manchester Road,Gymea,2227,private,10286
+11119,Tregear Public School,Wilkes Cres,Tregear,2770,public,10622
+11120,Bradbury Public School,Jacaranda Ave,Bradbury,2560,public,10083
+11121,Sherwood Hills Christian School,61 Jacaranda Avenue,Bradbury,2560,private,10083
+11122,Lethbridge Park Public School,Copeland Rd,Lethbridge Park,2770,public,10368
+11123,Winston Hills Public School,Hillcrest Rd,Winston Hills,2153,public,10670
+11124,Winston Heights Public School,Buckley Rd,Winston Hills,2153,public,10670
+11125,St Paul the Apostle Primary School,44 Buckleys Rd,Winston Hills,2153,private,10670
+11126,Nuwarra Public School,McKay Ave,Moorebank,2170,public,10431
+11127,Newbridge Heights Public School,Lewin & Magree Cres,Moorebank,2170,public,10431
+11128,Moorebank High School,Bangalow Ave,Moorebank,2170,public,10431
+11129,St Joseph's Catholic Primary School,35-45 Nuwarra Road,Moorebank,2170,private,10431
+11130,Emerton Public School,Hindemith Ave,Emerton,2770,public,10227
+11131,Holy Family Primary School,11 Emert Parade,Emerton,2770,private,10227
+11132,Wideview Public School,Wideview Rd,Berowra Heights,2082,public,10054
+11133,St Bernard's Catholic Primary School,Warrina St,Berowra Heights,2082,private,10054
+11134,Cherrybrook Public School,131 New Line Rd,Cherrybrook,2126,public,10136
+11135,John Purchase Public School,Purchase Rd,Cherrybrook,2126,public,10136
+11136,Cherrybrook Technology High School,28-44 Purchase Rd,Cherrybrook,2126,public,10136
+11137,Tangara School for Girls,77-97 Franklin Road,Cherrybrook,2126,private,10136
+11138,Dawson Public School,Stuart Rd,Dharruk,2770,public,10193
+11139,Hebersham Public School,Andover Cres,Hebersham,2770,public,10295
+11140,Blacktown Youth College Incorporated,39 Mackellar Road,Hebersham,2770,private,10295
+11141,Hobartville Public School,Valder Ave,Hobartville,2753,public,10300
+11142,Blackett Public School,47-59 Boldrewood Rd,Blackett,2770,public,10067
+11143,Niland School,Niland Cres,Blackett,2770,public,10067
+11144,Willmot Public School,Discovery Ave,Willmot,2770,public,10665
+11145,Werrington Public School,Heavey St,Werrington,2747,public,10648
+11146,Werrington County Public School,John Batman Ave,Werrington,2747,public,10648
+11147,Putland School,Great Western Hwy & Water St,Werrington,2747,public,10648
+11148,Kurrambee School,Werrington Rd,Werrington,2747,public,10648
+11149,Penrith Valley Learning Centre,Werrington Road,Werrington,2747,public,10648
+11150,Wollemi College,14 Gipps Street,Werrington,2747,private,10648
+11151,Montgrove College,14 Gipps Street,Werrington,2747,private,10648
+11152,Shalvey Public School,Laver St,Shalvey,2770,public,10574
+11153,Noumea Public School,Noumea St,Shalvey,2770,public,10574
+11154,Chifley College Shalvey Campus,Noumea St,Shalvey,2770,public,10574
+11155,John Warby Public School,Deans Rd,Airds,2560,public,10004
+11156,Bidwill Public School,45 Bunya Rd,Bidwill,2770,public,10062
+11157,Chifley College Bidwill Campus,Bunya Rd,Bidwill,2770,public,10062
+11158,St Andrews Public School,89 Ballantrae Drive,St Andrews,2566,public,10589
+11159,York Public School,Evan St,South Penrith,2750,public,10584
+11160,Jamisontown Public School,Thurwood Ave,South Penrith,2750,public,10584
+11161,Jamison High School,222 Evans St,South Penrith,2750,public,10584
+11162,St Mary MacKillop Primary School,150 Fragar Road,South Penrith,2750,private,10584
+11163,Grose View Public School,Grose Wold Rd,Grose Vale,2753,public,10282
+11164,Kareela Public School,Freya St,Kareela,2232,public,10324
+11165,Bates Drive School,Bates Drive,Kareela,2232,public,10324
+11166,Ruse Public School,Junction Rd,Ruse,2560,public,10557
+11167,Woodland Road Public School,20 Woodland Road,St Helens Park,2560,public,10591
+11168,St Helens Park Public School,Kellerman Drive,St Helens Park,2560,public,10591
+11169,Dulwich Hill Public School,Kintore St,Dulwich Hill,2203,public,10201
+11170,Dulwich High School of Visual Arts and Design,Seaview St,Dulwich Hill,2203,public,10201
+11171,St Maroun's College,194-206 Wardell Road,Dulwich Hill,2203,private,10201
+11172,St Paul of The Cross Catholic Primary School,16 May St,Dulwich Hill,2203,private,10201
+11173,Petersham Public School,25 Hunter St,Petersham,2049,public,10504
+11174,Taverners Hill Infants School,Elswick St,Petersham,2049,public,10504
+11175,Fort Street High School,Parramatta Rd,Petersham,2049,public,10504
+11176,NSW School of Languages,35 West Street,Petersham,2049,public,10504
+11177,Ambarvale Public School,Copperfield Drive,Ambarvale,2560,public,10009
+11178,Thomas Acres Public School,Crispsparkle Drive,Ambarvale,2560,public,10009
+11179,Thomas Reddall High School,Cnr Woodhouse Dr & Jaggers Pl,Ambarvale,2560,public,10009
+11180,Bonnet Bay Public School,34R Tudar Road,Bonnet Bay,2226,public,10076
+11181,Claymore Public School,Dobell Rd,Claymore,2559,public,10147
+11182,Kambora Public School,Woolrych Ave,Davidson,2085,public,10185
+11183,St Martin's Catholic Primary School,147 Prahran Avenue,Davidson,2085,private,10185
+11184,Eastlakes Public School,Florence Ave,Eastlakes,2018,public,10215
+11185,Braddock Public School,Laycock St,Cranebrook,2749,public,10168
+11186,Samuel Terry Public School,93-107 Grays Lane,Cranebrook,2749,public,10168
+11187,Henry Fulton Public School,Vincent Road,Cranebrook,2749,public,10168
+11188,Cranebrook High School,Hosking Street,Cranebrook,2749,public,10168
+11189,St Paul's Grammar School Penrith,52 Taylor Rd,Cranebrook,2749,private,10168
+11190,Corpus Christi Primary School,Andromeda Drive,Cranebrook,2749,private,10168
+11191,Clairgate Public School,Colorado Drive,St Clair,2759,public,10590
+11192,St Clair Public School,4 Timesweep Drive,St Clair,2759,public,10590
+11193,Blackwell Public School,Blackwell Ave,St Clair,2759,public,10590
+11194,Banks Public School,182 Banks Drive,St Clair,2759,public,10590
+11195,St Clair High School,6 Endeavour Avenue,St Clair,2759,public,10590
+11196,Holy Spirit Primary School,7-17 Todd Row,St Clair,2759,private,10590
+11197,Kings Langley Public School,68 Isaac Smith Pde,Kings Langley,2147,public,10334
+11198,Blairmount Public School,Badgally Rd,Blairmount,2559,public,10070
+11199,Bangor Public School,130 Menai Road,Bangor,2234,public,10028
+11200,Inaburra School,Billa Road,Bangor,2234,private,10028
+11201,Rosemeadow Public School,Anthony & Copperfield Drives,Rosemeadow,2560,public,10550
+11202,Mary Brooksbank School,Anthony & Cleopatra Drives,Rosemeadow,2560,public,10550
+11203,Ambarvale High School,Thomas Rose Drive,Rosemeadow,2560,public,10550
+11204,John Therry Catholic High School,Demetrius Road,Rosemeadow,2560,private,10550
+11205,Our Lady Help of Christians Catholic Primary School,Lot 2 Demetrius Road,Rosemeadow,2560,private,10550
+11206,Bonnyrigg Public School,Tarlington Pde,Bonnyrigg,2177,public,10077
+11207,Bonnyrigg High School,Elizabeth Drive,Bonnyrigg,2177,public,10077
+11208,Our Lady of Mt Carmel Catholic Primary School Mount Pritchard,230 Humphries Rd,Bonnyrigg,2177,private,10077
+11209,Plunkett Street Public School,Forbes St,Woolloomooloo,2011,public,10678
+11210,Sydney Distance Education High School,Forbes St,Woolloomooloo,2011,public,10678
+11211,Wiley Park Public School,Denman Ave,Wiley Park,2195,public,10664
+11212,Eschol Park Public School,Eschol Park Drive,Eschol Park,2558,public,10238
+11213,Governor Philip King Public School,Allambie Rd,Edensor Park,2176,public,10218
+11214,Edensor Park Public School,Swan & Gwandalan Rds,Edensor Park,2176,public,10218
+11215,St Hurmizd Assyrian Primary School,673 - 683 Smithfield Road,Edensor Park,2176,private,10218
+11216,Robert Townson Public School,Shuttleworth Ave,Raby,2566,public,10526
+11217,Robert Townson High School,Thunderbolt Drive,Raby,2566,public,10526
+11218,William Dean Public School,Yarramundi Drive,Dean Park,2761,public,10187
+11219,Minchinbury Public School,McFarlane Drive,Minchinbury,2770,public,10424
+11220,James Erskine Public School,Peppertree Drive,Erskine Park,2759,public,10236
+11221,Erskine Park High School,Swallow Drive,Erskine Park,2759,public,10236
+11222,Mamre Anglican School,45 Bakers Lane,Erskine Park,2759,private,10236
+11223,Bligh Park Public School,64 Alexander Street,Bligh Park,2756,public,10072
+11224,Chisholm Catholic Primary School,30 Collith Ave,Bligh Park,2756,private,10072
+11225,Eagle Arts and Vocational College,139 Colonial Drive,Bligh Park,2756,private,10072
+11226,Eagle Arts and Vocational College,139 Colonial Drive,Bligh Park,2756,private,10072
+11227,Glenmore Park Public School,33-41 The Lakes Drive,Glenmore Park,2745,public,10265
+11228,Surveyors Creek Public School,St Andrews Drive,Glenmore Park,2745,public,10265
+11229,Fernhill School,12-40 Ridgetop Drive,Glenmore Park,2745,public,10265
+11230,Glenmore Park High School,Glenmore Parkway,Glenmore Park,2745,public,10265
+11231,Caroline Chisholm College,90-98 The Lakes Drive,Glenmore Park,2745,private,10265
+11232,Bethany Catholic Primary School,34-38 William Howell Drive,Glenmore Park,2745,private,10265
+11233,Kearns Public School,St Lawrence Ave,Kearns,2558,public,10325
+11234,Bonnyrigg Heights Public School,Wilson Rd,Bonnyrigg Heights,2177,public,10078
+11235,Freeman Catholic College,Mount Street,Bonnyrigg Heights,2177,private,10078
+11236,John The Baptist Catholic Primary School,Mount St,Bonnyrigg Heights,2177,private,10078
+11237,Mount Annan Public School,Stenhouse Drive,Mount Annan,2567,public,10436
+11238,Mount Annan High School,248 Welling Drive,Mount Annan,2567,public,10436
+11239,Mount Annan Christian College,347 Narellan Road,Mount Annan,2567,private,10436
+11240,Hassall Grove Public School,Buckwell Drive,Hassall Grove,2761,public,10292
+11241,St Clare's Catholic High School,175 Buckwell Drive,Hassall Grove,2761,private,10292
+11242,Alfords Point Public School,Brushwood Drive,Alfords Point,2234,public,10006
+11243,Glendenning Public School,135 Armitage Drive,Glendenning,2761,public,10262
+11244,St Francis of Assisi Primary School,1 Stone Street,Glendenning,2761,private,10262
+11245,Hinchinbrook Public School,Hinchinbrook Dr & Keppel Ct,Hinchinbrook,2168,public,10299
+11246,Hoxton Park High School,40 Wilson Rd,Hinchinbrook,2168,public,10299
+11247,Good Samaritan Catholic College,401 Hoxton Park Road,Hinchinbrook,2168,private,10299
+11248,Narellan Vale Public School,Waterworth Drive,Narellan Vale,2567,public,10445
+11249,St Clare's Catholic Primary School,59 Holdsworth Drive,Narellan Vale,2567,private,10445
+11250,Claremont Meadows Public School,124-164 Sunflower Drive,Claremont Meadows,2747,public,10144
+11251,Greenway Park Public School,Wyattville Drive,Carnes Hill,2171,public,10118
+11252,Holy Spirit Catholic Primary School,25 Main Street,Carnes Hill,2171,private,10118
+11253,Currans Hill Public School,Tramway Drive,Currans Hill,2567,public,10178
+11254,Newington Public School,Newington Boulevarde,Newington,2127,public,10452
+11255,SEDA College,Building 46  Sydney Olympic Park Holker Street,Newington,2127,private,10452
+11256,Harrington Park Public School,2 Sir Warwick Fairfax Drive,Harrington Park,2567,public,10290
+11257,Beaumont Hills Public School,The Parkway,Beaumont Hills,2155,public,10043
+11258,Malek Fahd Islamic School,20 Mungerie Road,Beaumont Hills,2155,private,10043
+11259,Cecil Hills Public School,Leopold Place,Cecil Hills,2171,public,10130
+11260,Cecil Hills High School,Spencer Rd,Cecil Hills,2171,public,10130
+11261,Kellyville Ridge Public School,Cnr Singleton Ave GREENWICH St,Kellyville Ridge,2155,public,10327
+11262,Ropes Crossing Public School,Pulley Drive,Ropes Crossing,2760,public,10545
+11263,Elderslie Public School,170 Lodges Road,Elderslie,2570,public,10222
+11264,Elderslie High School,48 Hilder Street,Elderslie,2570,public,10222
+11265,Middleton Grange Public School,50 Hall Circuit,Middleton Grange,2171,public,10418
+11266,John Palmer Public School,The Ponds Boulevard,The Ponds,2769,public,10617
+11267,Riverbank Public School,25 Wentworth Street,The Ponds,2769,public,10617
+11268,The Ponds School,201 The Ponds Boulevard,The Ponds,2769,public,10617
+11269,The Ponds High School,180 Riverbank Drive,The Ponds,2769,public,10617
+11270,Oran Park Public School,390 South Circuit,Oran Park,2570,public,10484
+11271,St Justin's Catholic Primary School,94 Oran Park Drive,Oran Park,2570,private,10484
+11272,St Benedict's Catholic College,70 Oran Park Drive,Oran Park,2570,private,10484
+11273,Oran Park Anglican College,60 Central Avenue,Oran Park,2570,private,10484
+11274,Spring Farm Public School,Barley Road,Spring Farm,2570,public,10588
+11275,Wentworth Point Public School,3-5 Burroway Road,Wentworth Point,2127,public,10646
+11276,Bella Vista Public School,83 Free Settlers Drive,Bella Vista,2153,public,10046
+11277,North Kellyville Public School,120 Hezlett Road,North Kellyville,2155,public,10460
+11278,Russell Lea Public School,Whittall Street,Russell Lea,2046,public,10559
+11279,Bardwell Park Infants School,4 Crewe Lane,Bardwell Park,2207,public,10036
+11280,Sefton Infants School,180-194 Rodd St,Sefton,2162,public,10572
+11281,Sefton High School,41-43 Hector Street,Sefton,2162,public,10572
+11282,Immaculate Heart of Mary Catholic Primary School,10 Kerrinea Road,Sefton,2162,private,10572
+11283,Homebush West Public School,20 Exeter Road,Homebush West,2140,public,10304
+11284,Field of Mars Environmental Education Centre,Pittwater Rd,East Ryde,2113,public,10212
+11285,Green Square School,237 Botany Rd,Waterloo,2017,public,10640
+11286,Our Lady of Mount Carmel Catholic Primary,4 Kellick Street,Waterloo,2017,private,10640
+11287,Bridge Road School,127 Parramatta Rd,Camperdown,2050,public,10107
+11288,Royal Prince Alfred Hospital School,83-117 Parramatta Road,Camperdown,2050,public,10107
+11289,Royal North Shore Hospital School,"Level 7, Clinical Services Building, Royal North Shore Hospital",St Leonards,2065,public,10595
+11290,Bradfield College,213 Pacific Highway,St Leonards,2065,public,10595
+11291,Naremburn School,250 Willoughby Rd,Naremburn,2065,public,10446
+11292,Royal National Park Environmental Education Centre,159 Farnell Avenue,Royal National Park,2232,public,10555
+11293,Brewongle Environmental Education Centre,587 Chapel Hill Road,Sackville North,2756,public,10563
+11294,Lucas Gardens School,Cnr Queens Rd & Walker St,Canada Bay,2046,public,10109
+11295,Edgeware School,Burnett St & Tennett Pde,Hurlstone Park,2193,public,10314
+11296,Observatory Hill Environmental Education Centre,Level 4  40 Gloucester Street,The Rocks,2000,public,10618
+11297,Bondi Public School,Wellington St,Bondi,2026,public,10073
+11298,Montessori East,8 Wellington Street,Bondi,2026,private,10073
+11299,Yeshiva College,36 Flood Street,Bondi,2026,private,10073
+11300,WAYS Secondary,63a Wairoa Avenue,Bondi,2026,private,10073
+11301,Chatswood Public School,5 Centennial Ave,Chatswood,2067,public,10133
+11302,Chatswood High School,24 Centennial Ave,Chatswood,2067,public,10133
+11303,Mercy Catholic College,101 Archer St,Chatswood,2067,private,10133
+11304,Our Lady of Dolours Catholic Primary School,94A Archer Street,Chatswood,2067,private,10133
+11305,St Pius X College,35 Anderson Street,Chatswood,2067,private,10133
+11306,International Chinese School,1 View Street,Chatswood,2067,private,10133
+11307,Croydon Public School,39 Young St,Croydon,2132,public,10174
+11308,Burwood Girls High School,95 Queen Street,Croydon,2132,public,10174
+11309,Holy Innocents' Catholic Primary School,86-98 Queen Street,Croydon,2132,private,10174
+11310,Presbyterian Ladies College,Boundary Street,Croydon,2132,private,10174
+11311,Croydon Park Public School,Georges River Rd,Croydon Park,2133,public,10175
+11312,St Francis Xavier Catholic School Ashbury,40-44 Forbes St,Croydon Park,2133,private,10175
+11313,Daceyville Public School,Joffre Cres,Daceyville,2032,public,10180
+11314,St Michael's Catholic Primary School,Haig Avenue,Daceyville,2032,private,10180
+11315,Darlinghurst Public School,Womerah Ave,Potts Point,2011,public,10515
+11316,St Vincent's College,1 Rockwall Crescent,Potts Point,2011,private,10515
+11317,Gardeners Road Public School,420-422 Gardeners Road,Rosebery,2018,public,10547
+11318,Glebe Public School,Derwent St,Glebe,2037,public,10259
+11319,Sydney Secondary College Blackwattle Bay Campus,Taylor St,Glebe,2037,public,10259
+11320,St James Catholic Primary School,2 Woolley St,Glebe,2037,private,10259
+11321,St Scholastica's College,4 Avenue Road,Glebe,2037,private,10259
+11322,Australian Performing Arts Grammar School,255 Broadway,Glebe,2037,private,10259
+11323,Rozelle Public School,Darling St,Rozelle,2039,public,10556
+11324,Sydney Secondary College Balmain Campus,Terry St,Rozelle,2039,public,10556
+11325,Stanmore Public School,Cnr Cambridge and Holt St,Stanmore,2048,public,10599
+11326,Newington College,200 Stanmore Road,Stanmore,2048,private,10599
+11327,St Michael's Catholic Primary School,Percival Road,Stanmore,2048,private,10599
+11328,Newington College,117 Cambridge Street,Stanmore,2048,private,10599
+11329,Woollahra Public School,Forth St,Woollahra,2025,public,10677
+11330,Holy Cross Catholic Primary School,81 Edgecliff Road,Woollahra,2022,private,10677
+11331,Reddam House,70 Edgecliff Road,Woollahra,2025,private,10677
+11332,Reddam House,78 Edgecliff Road,Woollahra,2025,private,10677
+11333,Rosehill Public School,Prospect St,Rosehill,2142,public,10548
+11334,North Sydney Boys High School,Falcon Street,Crows Nest,2065,public,10173
+11335,North Sydney Girls High School,Pacific Hwy,Crows Nest,2065,public,10173
+11336,Cammeraygal High School,192 Pacific Highway,Crows Nest,2065,public,10173
+11337,Sydney Boys High School,556 Cleveland Street,Moore Park,2021,public,10430
+11338,Matraville Sports High School,Anzac Pde,Chifley,2036,public,10138
+11339,Lucas Heights Community School,132 Old Illawarra Rd,Barden Ridge,2234,public,10034
+11340,Shire Christian School,16A Allies Road,Barden Ridge,2234,private,10034
+11341,Central Sydney Intensive English High School,57-77 Mitchell Road,Alexandria,2015,public,10005
+11342,Alexandria Park Community School,Park Rd,Alexandria,2015,public,10005
+11343,John Edmondson High School,64 Horningsea Park Drive,Horningsea Park,2171,public,10305
+11344,Woolooware High School,Woolooware Rd North,Woolooware,2230,public,10679
+11345,St Francis De Sales' Catholic Primary School,14 Hill Street,Woolooware,2230,private,10679
+11346,Turramurra High School,Maxwell St,South Turramurra,2074,public,10585
+11347,Rose Bay Secondary College,34A Hardy St,Dover Heights,2030,public,10198
+11348,Kesser Torah College,Cnr Of Napier And Blake Streets,Dover Heights,2030,private,10198
+11349,Prairiewood High School,203-215 Restwell Road,Prairiewood,2176,public,10516
+11350,Eagle Vale High School,Drysdale Rd,Eagle Vale,2558,public,10205
+11351,Mary Immaculate Catholic Primary School,Cnr Emerald and Aquamarine Drive,Eagle Vale,2558,private,10205
+11352,Saturday School of Community Languages,Level 3 1 Oxford Street,Darlinghurst,2010,public,10183
+11353,SCEGGS  Darlinghurst,215 Forbes Street,Darlinghurst,2010,private,10183
+11354,Sydney Grammar School,10 College Street,Darlinghurst,2010,private,10183
+11355,Aurora College,635 Mowbray Road,Lane Cove North,2066,public,10357
+11356,Ascham School Ltd,188 New South Head Rd,Edgecliff,2027,private,10219
+11357,St Oliver's Primary School,33 Wigram Street,Harris Park,2150,private,10291
+11358,Maronite College of the Holy Family - Parramatta,23-25 Alice Street,Harris Park,2150,private,10291
+11359,De La Salle College,9 Ferndale Road,Revesby Heights,2212,private,10534
+11360,Glenaeon Rudolf Steiner School,5A Glenroy Avenue,Middle Cove,2068,private,10416
+11361,Loreto Kirribilli,85 Carabella St,Kirribilli,2061,private,10342
+11362,Marist College North Shore,270 Miller Street,North Sydney,2060,private,10470
+11363,Monte Sant' Angelo Mercy College,128 Miller Street,North Sydney,2060,private,10470
+11364,St Mary's Catholic Primary School ,40 Ridge Street,North Sydney,2060,private,10470
+11365,Sydney Church of England Grammar School,Blue Street,North Sydney,2060,private,10470
+11366,Wenona School Ltd,176 Walker Street,North Sydney,2060,private,10470
+11367,Cameragal Montessori School,Cnr Lavender and Walker Streets,North Sydney,2060,private,10470
+11368,Cameragal Montessori School,12 Miller Street,North Sydney,2060,private,10470
+11369,Marist Sisters' College Woolwich,66A Woolwich Road,Woolwich,2110,private,10680
+11370,Mater Maria Catholic College,Forest Road,Warriewood,2102,private,10637
+11371,Moriah College,Queens Park Road,Bondi Junction,2022,private,10075
+11372,Mary MacKillop Catholic College,5 Carnarvon Street,Wakeley,2176,private,10633
+11373,Our Lady of the Rosary Catholic Primary School,23 Yardley Avenue,Waitara,2077,private,10632
+11374,Barker College,9-17 Clark Road,Waitara,2077,private,10632
+11375,St Aloysius' College,47 Upper Pitt Street,Milsons Point,2061,private,10423
+11376,St Aloysius' College,29 Burton Street,Milsons Point,2061,private,10423
+11377,St Anne's Catholic Primary School,St Anne'S Square,Strathfield South,2136,private,10601
+11378,St Anthony's Catholic Primary School,58 Arden Street,Clovelly,2031,private,10150
+11379,St Gregory's College Campbelltown,100 Badgally Road,Gregory Hills,2557,private,10280
+11380,St Michael's Catholic Primary School,24 Margaret Street,Belfield,2191,private,10045
+11381,Tangara School for Girls,3 Elliot Street,Belfield,2135,private,10045
+11382,St Michael's Catholic Primary School,Maxim Street,Meadowbank,2114,private,10410
+11383,Italian Bilingual School,111 Bowden Street,Meadowbank,2112,private,10410
+11384,St Pius' Catholic Primary School,209 Edgeware Road,Enmore,2042,private,10233
+11385,St Therese's Catholic Primary School,448 Blaxland Road,Denistone,2122,private,10190
+11386,St Therese Catholic Primary School,48 Chamberlain Rd,Padstow Heights,2211,private,10491
+11387,Sydney Church of England Co-Educational Grammar School  Redlands,272 Military Road,Cremorne,2090,private,10169
+11388,Sydney Church of England Co-Educational Grammar School  Redlands,Murdoch Street,Cremorne,2090,private,10169
+11389,St Anthony's Catholic Primary School,Cnr Balaclava And Agincourt Rds,Marsfield,2122,private,10403
+11390,St Spyridon College,78 Gardeners Road,Kingsford,2032,private,10336
+11391,Oxford Falls Grammar School,1078 Oxford Falls Road,Oxford Falls,2100,private,10486
+11392,Mount Carmel Catholic College,St Andrews Road,Varroville,2565,private,10626
+11393,Galstaun College,5 Chiltern Road,Ingleside,2101,private,10319
+11394,Armenian General Benevolent Union Alexander Primary School,Cnr Thuddungra and Namba Roads,Duffys Forest,2084,private,10200
+11395,Key College,122 Little Eveleigh Street,Redfern,2016,private,10530
+11396,Redfern Jarjum College,117 Redfern Street,Redfern,2016,private,10530
+11397,SEDA College,180 George St,Redfern,2016,private,10530
+11398,Richard Johnson Anglican School,93 Hyatts Road,Oakhurst,2761,private,10478
+11399,Thomas Hassall Anglican College,Cnr Second and Sixteenth Avenues,West Hoxton,2171,private,10651
+11400,Clancy Catholic College,Carmichael Drive,West Hoxton,2171,private,10651
+11401,Aspect Macarthur School,201 Carmichael drive,West Hoxton,2171,private,10651
+11402,Reddam House,56 Mitchell Street,North Bondi,2026,private,10457
+11403,St Hurmizd Assyrian Primary School,7-9 Greenfield Rd,Greenfield Park,2176,private,10277
+11404,John XXIII Catholic Primary School,160 Perfection Avenue,Stanhope Gardens,2768,private,10598
+11405,St Mark's Catholic College,160 Perfection Avenue,Stanhope Gardens,2768,private,10598
+11406,Ebenezer Christian College,441 Blacktown Road,Prospect,2148,private,10518
+11407,Lindfield Montessori Preschool,9 Moore Street,West Lindfield,2070,private,10653
+11408,Pittwater House Schools,Westmoreland Avenue,Collaroy,2097,private,10155
+11409,Irfan College,2089 Elizabeth Drive,Cecil Park,2178,private,10131
+11410,St Patrick's Catholic Primary School,1 Adam Street,Mortlake,2137,private,10434
+11411,Glenaeon Rudolf Steiner School,117 Edinburgh Rd,Castlecrag,2068,private,10124
+11412,Inner Sydney Montessori School,8 Trevor Street,Lilyfield,2040,private,10374
+11413,St Luke's Grammar School,1977 Pittwater Road,Bayview,2104,private,10040
+11414,St Francis Catholic College,130-160 Jardine Drive,Edmondson Park,2174,private,10220
