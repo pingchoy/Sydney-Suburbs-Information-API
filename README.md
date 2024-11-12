@@ -34,20 +34,4 @@ $ npm start
 
 ---
 
-University of New South Wales - Term 3, 2019  
-COMP9321 - Data Services Engineering  
-Assignment 2 - Team Degenerates
 
-### Team members
-
-| Name | zID | Email |
-| :--- | :--- | :--- |
-| Chris | z5261105 | christopher.lord@student.unsw.edu.au |
-| Vidan | z5235775 | v.milovanovic@student.unsw.edu.au |
-| Alex | z3252894 | a.catic@student.unsw.edu.au |
-| Ping | z5135745 | c.choy@student.unsw.edu.au |
-| Harris | z3415157 | harris.phan@student.unsw.edu.au |
-
-### Communication
-
-Slack: http://degenerates-global.slack.com/
